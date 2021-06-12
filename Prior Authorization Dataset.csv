@@ -1,0 +1,1000 @@
+Health Insurance Plan,Age,Height,Gender,Weight,Speciality,Treatment,Prescribed Drug,Generic Drug,Addictive,Pres_Med_cost,Alter_Med_cost,Doc_exp,Prev_Med_imp,Side Effects,Insurance Amount,Strength(mg),Dosage(per day),Length of Treatment(days),Therapy Initiated,Reauthorization,Label
+Platinum,37,5.2,Male,45,Cardiac surgeon,Aortic Surgery,Apixaban,Eliquis,no,93689,95000,9,YES,yes,95431,875,3,14,YES,NO,Accepted
+Basic,50,5,Male,43,Electrophysiologist,Minimally Invasive Heart Surgery,Indapamide,Lozol,yes,67959,92258,3,YES,yes,54045,200,2,5,NO,NO,Rejected
+Gold,45,6,Male,55,Breast surgeon,Axillary lymph node dissection (ALND),Docetaxel,,No,59544,41517,11,NA,no,34567,90,2,20,NO,YES,Partially Accepted
+Basic,54,5.7,Male,41,Vascular surgeon,Sentinel lymph node biopsy (SLNB),DaunoXome,Daunorubicin,No,61165,78394,16,YES,no,79927,200,1,8,YES,NO,Accepted
+Platinum,35,6.3,Male,50,Radiologist,Partial nephrectomy,Zykadia,Ceritinib,No,91680,89750,8,NO,yes,95341,25,1,10,NO,NO,Accepted
+Basic,52,5.3,Male,35,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Opdivo,Nivolumab,yes,83457,42967,3,NA,yes,86990,6.25,4,21,NO,YES,Rejected
+Basic,73,5.6,Male,32,Vascular surgeon,Radical cystectomy and lymph node dissection,Cerubidine,Daunorubicin,No,86673,32027,17,YES,no,58362,875,3,21,YES,YES,Rejected
+Basic,56,6.2,Male,69,Thoracic surgeon,Sentinel lymph node biopsy (SLNB),Cerubidine,Daunorubicin,NA,90326,59078,13,YES,no,97362,90,3,8,NO,YES,Rejected
+Basic,49,5.6,Male,30,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Gemzar,Gemcitabine,No,58907,32403,13,NO,yes,61097,850,2,7,NO,NO,Accepted
+Gold,52,6.2,Male,29,Urologists,Transurethral bladder tumor resection (TURBT),Panitumumab,Vectibix,No,94997,85492,13,NA,yes,91621,19,3,5,NO,YES,Accepted
+Basic,56,6.2,Male,34,Otolaryngologist,Neck dissection,Cytoxan,Cyclophosphamide,yes,72390,34641,12,NO,yes,66768,40,1,5,YES,YES,Accepted
+Basic,65,5.9,Female,77,Otolaryngologist,Reconstruction,oncovin,VINCRISTINE,No,62963,48257,3,NO,no,91429,800,3,20,NO,NO,Partially Accepted
+Basic,75,5.6,Male,72,Urologists,Radical cystectomy and lymph node dissection,DaunoXome,Daunorubicin,No,66254,54757,13,NA,NA,73979,600,2,12,NO,NO,Rejected
+Gold,52,4.8,Male,80,Otolaryngologist,Reconstruction,Abraxane,Paclitaxel,NA,56429,79113,8,NO,no,60888,140,1,14,YES,NO,Partially Accepted
+Gold,56,5.3,Male,86,Neurosurgeons,craniotomy,Zykadia,Ceritinib,No,76101,,5,NA,no,63958,6.25,2,8,NO,NO,Accepted
+Gold,1,1.5,Male(Child),66,Dermatologist,Melanoma,Eloxatin,Oxaliplatin generic,No,60488,58141,1,NA,no,80843,875,2,20,NO,YES,Partially Accepted
+Gold,54,5.7,Female,60,Dermatologist,Melanoma,Zykadia,Ceritinib,No,89558,92258,11,NA,no,95466,40,2,7,NO,NO,Partially Accepted
+Gold,48,5.3,Male,35,Interventional cardiologist,Atherectomy,Heparin,various,No,62182,45614,10,YES,NA,68908,775,2,21,YES,NO,Accepted
+Gold,57,5.9,Female,46,Urologists,Radical cystectomy and lymph node dissection,Opdivo,Nivolumab,No,55223,46911,8,NA,NA,88569,50,2,5,NO,NO,Accepted
+Platinum,55,4.3,Male,29,Cardiologist,Norwood,Atorvastatin,Lipitor,yes,76503,52014,10,YES,no,95793,250,3,21,NO,YES,Accepted
+Basic,74,5.3,Female,29,Non-invasive cardiologist,Radiofrequency Ablation/ Catheter Ablation,Carvedilol,"Coreg, Coreg CR",yes,62074,75443,11,NO,NA,57890,560,1,12,YES,YES,Partially Accepted
+Basic,57,5.6,Male,81,Cardiac surgeon,Left ventricular remodeling/ surgical ventricular restoration,Olmesartan,Benicar,No,66579,34358,11,NA,NA,79947,25,3,20,YES,NO,Accepted
+Basic,56,4.3,Male,53,Breast surgeon,Lumpectomy,Ellence,Epirubicin,yes,55210,68203,15,NA,yes,74669,30,2,20,YES,YES,Rejected
+Basic,31,6.1,Male,62,Cardiologist,Cardiomyoplasty,Metalozone,Zaroxolyn,No,66882,61598,12,NO,NA,60713,800,1,42,YES,NO,Accepted
+Basic,68,5.6,Male,77,Plastic surgeon,Radiofrequency ablation (RFA) or cryoablation,Rozlytrek,Entrectinib,No,64849,87770,14,NO,yes,98111,200,2,5,YES,YES,Accepted
+Gold,72,5.2,Female,39,Cardiac surgeon,Congenital heart surgery,Edoxaban,Savaysa,yes,82215,68368,6,YES,yes,52422,250,1,14,YES,YES,Rejected
+Basic,66,5.1,Female,34,Cardiologist,Radiofrequency Ablation/ Catheter Ablation,Pravastatin,Pravachol,No,72784,98375,13,NA,no,93041,6.25,3,12,NO,YES,Rejected
+Basic,35,5.2,Male,56,Oncologist,Neck dissection,Doxil,doxorubicin,No,62627,83844,4,NA,no,77755,750,1,7,NO,YES,Partially Accepted
+Platinum,72,5.6,Female,37,Dermatologist,Melanoma,oncovin,VINCRISTINE,No,60068,77378,12,NA,no,51603,125,2,42,YES,NO,Accepted
+Platinum,42,6.1,Female,30,Pulmonologist,Mandibulectomy,Mexate,Methotrexate,No,59976,43243,6,NA,yes,51620,560,3,42,YES,YES,Accepted
+Gold,63,4.9,Male,39,Otolaryngologist,Reconstruction,Paraplatin,Carboplatin,yes,74582,28473,1,NO,no,96879,160,1,14,NO,NO,Partially Accepted
+Gold,56,5.3,Male,63,Neurosurgeons,craniotomy,Doxil,doxorubicin,No,71170,33437,10,NA,no,53608,10,2,42,YES,NO,Partially Accepted
+Gold,1,1.5,Female(Child),72,Dermatologist,Melanoma,Panitumumab,Vectibix,No,86507,80151,15,NA,no,70504,500,1,20,NO,NO,Rejected
+Gold,42,5.3,Male,89,Otolaryngologist,Reconstruction,Abraxane,Paclitaxel,yes,72526,61287,6,NO,no,89073,300,3,14,YES,NO,Rejected
+Basic,49,5.2,Male,51,Pathologist,Tracheostomy,Paraplatin,Carboplatin,yes,79043,62820,8,NO,yes,51964,10,2,12,YES,NO,Partially Accepted
+Basic,26,5.2,Male,54,Cardiac surgeon,Arrhythimia surgery,Lisinopril,"Prinivil, Zestril",No,89772,28480,2,YES,NA,58893,875,2,20,NO,NO,Accepted
+Basic,57,6.3,Male,77,Gastroenterologist,Gastrostomy tube,Camptosar,Irinotecan generic,No,68565,79462,5,YES,no,70371,250,1,20,NO,YES,Partially Accepted
+Basic,59,5.2,Male,89,Dermatologist,Melanoma,Mexate,Methotrexate,No,64812,57643,6,NA,no,65174,800,3,20,NO,YES,Partially Accepted
+Basic,58,5,Male,48,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Camptosar,Irinotecan generic,No,68331,80564,9,YES,yes,61757,750,2,7,NO,NO,Rejected
+Basic,69,6,Female,46,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Cerubidine,Daunorubicin,No,85148,50879,13,YES,no,94877,125,4,8,NO,YES,Partially Accepted
+Gold,50,5.1,Male,77,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Adriamycin,Doxorubicin,No,63557,91259,8,NO,yes,62396,25,1,20,YES,NO,Accepted
+Gold,50,5.6,Male,43,Otolaryngologist,Reconstruction,Docetaxel,,yes,81290,77398,7,NO,no,56538,600,1,20,NO,NO,Accepted
+Gold,53,5.6,Male,86,Neurosurgeons,craniotomy,Thioplex,Thiotepa,No,83258,98183,13,NA,no,69472,560,3,12,YES,NO,Partially Accepted
+Gold,40,5.1,Male,44,Medical oncologist,Segmentectomy,Avastin,Bevacizumab,No,87734,63822,1,YES,no,67581,12.5,2,5,YES,NO,Rejected
+Basic,54,5.6,Female,89,Dermatologist,Melanoma,Taxol,Paclitaxel,No,64727,49822,14,NA,no,69026,500,3,7,YES,NO,Accepted
+Basic,54,5.2,Female,86,Non-invasive cardiologist,Atherectomy,Sotalol,Betapace,yes,76956,90649,1,NO,NA,95072,400,3,10,NO,NO,Partially Accepted
+Basic,66,6.1,Male,67,Oncologist,Neck dissection,Camptosar,Irinotecan generic,No,57219,88418,4,NA,no,80903,90,1,28,NO,NO,Accepted
+Gold,59,6.2,Male,45,Maxillofacial surgeon,Reconstruction,Panitumumab,Vectibix,No,56839,30389,5,NO,no,69735,250,2,42,NO,NO,Accepted
+Gold,65,6.3,Male,67,Electrophysiologist,ASD Repair,Candesartan,Atacand,yes,71646,93381,13,YES,yes,96134,90,3,20,NO,YES,Partially Accepted
+Gold,1,1.5,Male(Child),62,Surgical oncologist,Radical cystectomy and lymph node dissection,Docetaxel,,No,88971,36335,1,NA,yes,98091,50,2,30,NO,YES,Rejected
+Basic,10,4.2,Female(Child),81,Surgical oncologist,Radical cystectomy and lymph node dissection,Doxil,doxorubicin,No,78732,73439,15,NA,yes,65721,875,2,8,YES,YES,Partially Accepted
+Platinum,48,5.3,Male,77,Oncologist,Lobectomy,Taxol,Paclitaxel,No,93501,27818,7,NA,yes,77255,250,3,12,NO,YES,Rejected
+Platinum,55,5.6,Male,79,Radiologist,Radical nephrectomy,Opdivo,Nivolumab,yes,61114,26098,4,NO,yes,74487,140,3,20,YES,YES,Rejected
+Gold,48,6.8,Male,54,Electrophysiologist,Norwood,Fluvastatin,Lescol,yes,87999,57280,1,NO,NA,80555,30,2,14,NO,YES,Rejected
+Gold,70,5.6,Male,89,Oncologist,Mandibulectomy,Ellence,Epirubicin,No,93803,78718,6,NA,yes,86154,140,3,20,YES,YES,Partially Accepted
+Gold,52,4.8,Male,30,Non-invasive cardiologist,Radiofrequency Ablation/ Catheter Ablation,Valsartan,Diovan,yes,67992,91233,2,YES,NA,73896,30,2,12,NO,NO,Accepted
+Basic,1,1,Male(Child),89,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Avastin,Bevacizumab,No,83733,55432,4,NO,yes,55000,50,2,28,YES,YES,Partially Accepted
+Basic,17,5.1,Female,78,Surgical oncologist,Axillary lymph node dissection (ALND),Panitumumab,Vectibix,No,69031,70333,2,NA,yes,85017,850,4,14,YES,NO,Accepted
+Basic,64,5.1,Female,61,Radiologist,Partial nephrectomy,Doxil,doxorubicin,No,80896,55024,3,NO,no,67543,12.5,2,12,YES,NO,Partially Accepted
+Gold,60,6.1,Male,65,Medical oncologist,Glossectomy,Aldara,Imiquimod,No,82134,64764,6,NO,no,82347,250,3,28,YES,NO,Accepted
+Basic,69,6,Male,36,Dermatologist,Melanoma,Doxil,doxorubicin,No,55351,51776,3,NA,no,70328,40,1,42,NO,NO,Accepted
+Basic,64,5.1,Female,34,Electrophysiologist,CAVC Repair,Amiloride,Midamor,yes,92006,88759,10,YES,yes,52232,600,3,21,NO,YES,Rejected
+Basic,48,5.1,Male,44,Oncologist,Laparoscopic surgery,Mexate,Methotrexate,No,78295,29246,6,NA,yes,84347,12.5,1,12,NO,NO,Rejected
+Platinum,43,5,Male,39,Otolaryngologist,Reconstruction,Cerubidine,Daunorubicin,yes,68927,32894,9,NO,no,52602,12.5,2,5,NO,YES,Partially Accepted
+Gold,47,6,Male,30,Otolaryngologist,Reconstruction,Taxol,Paclitaxel,yes,82205,50471,5,NO,no,79188,140,4,12,NO,NO,Rejected
+Gold,66,4.8,Male,42,Pathologist,Tracheostomy,Avastin,Bevacizumab,yes,56060,87092,17,NO,yes,75580,19,1,8,YES,NO,Accepted
+Gold,40,4.5,Male,61,Radiation oncologist,Transurethral bladder tumor resection (TURBT),Doxil,doxorubicin,No,86426,86328,11,NA,yes,81496,560,2,7,YES,YES,Accepted
+Gold,1,1.5,Male(Child),36,Pathologist,Tracheostomy,Doxil,doxorubicin,yes,84530,74579,16,NO,yes,88746,90,1,9,NO,NO,Accepted
+Basic,51,5.1,Male,62,Neurosurgeons,craniotomy,DaunoXome,Daunorubicin,No,89854,90741,8,NA,no,88098,600,4,5,YES,NO,Accepted
+Basic,48,5.3,Male,29,Interventional cardiologist,Surgical Aortic Valve Replacement (SAVR),Aspirin,,No,85125,69574,15,YES,NA,45632,20,1,14,NO,NO,Partially Accepted
+Basic,50,5.6,Female,86,Medical oncologist,Glossectomy,Avastin,Bevacizumab,No,72594,90509,3,YES,no,67127,12.5,4,7,NO,YES,Partially Accepted
+Basic,74,5.8,Female,62,Cardiac surgeon,Transmyocardial Revascularization (TMR),Betaxolol,Kerlone,No,88156,47256,3,NO,NA,83394,20,2,30,YES,YES,Accepted
+Basic,0,1,Male(Child),83,Oncologist,Laparoscopic surgery,Opdivo,Nivolumab,No,71810,77957,6,NA,yes,87515,20,3,14,YES,NO,Accepted
+Basic,64,4.9,Male,30,Non-invasive cardiologist,BDG/ Hemi-Fontan,Candesartan,Atacand,yes,69224,45966,6,YES,NA,94911,90,1,42,NO,NO,Rejected
+Basic,64,6,Male,35,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Mexate,Methotrexate,yes,68338,28275,8,YES,yes,79713,30,4,42,NO,NO,Rejected
+Basic,24,6.1,Male,74,Radiologist,Partial nephrectomy,Mexate,Methotrexate,yes,58054,95200,10,NO,yes,75056,400,2,21,YES,NO,Accepted
+Gold,24,6.2,Male,74,Non-invasive cardiologist,Transcatheter Aortic Valve Replacement (TAVR),Quinapril,Accupril,yes,70077,26712,15,YES,NA,58316,560,1,16,NO,NO,Rejected
+Gold,74,6.2,Female,60,Non-invasive cardiologist,ASD Repair,Trandolapril,Mavik,yes,63649,51056,6,YES,NA,58949,90,4,12,YES,NO,Partially Accepted
+Gold,46,6,Male,90,Oncologist,Micrographic surgery,Abraxane,Paclitaxel,No,71110,93930,5,NA,yes,81459,6.25,2,14,NO,NO,Accepted
+Gold,60,4.9,Male,47,Urologists,Urinary diversion,Camptosar,Irinotecan generic,No,75065,68842,2,NA,NA,97346,90,1,10,NO,YES,Accepted
+Gold,1,1.5,Female(Child),70,Maxillofacial surgeon,Reconstruction,Thioplex,Thiotepa,No,66825,86650,6,NO,no,89586,1000,2,5,YES,YES,Accepted
+Gold,31,4.9,Male,89,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Odomzo,Sonidegib,No,64155,94488,6,YES,no,56186,250,2,28,NO,NO,Partially Accepted
+Basic,42,5.9,Male,80,Oncologist,Mandibulectomy,Avastin,Bevacizumab,No,68618,25573,16,NA,yes,68775,1000,1,7,NO,NO,Rejected
+Basic,40,5.8,Female,66,Pathologist,Partial nephrectomy,Doxil,doxorubicin,yes,73276,66658,0,NO,yes,50625,250,4,28,YES,NO,Rejected
+Basic,57,5.6,Male,34,Urologists,Urinary diversion,Doxil,doxorubicin,No,90410,94719,9,NA,NA,76890,10,4,30,NO,NO,Partially Accepted
+Basic,40,6,Male,65,Cardiologist,Minimally Invasive Heart Surgery,Ezetimibe/Simvastatin,Vytorin,No,62589,31697,13,YES,no,62223,775,4,12,NO,NO,Accepted
+Basic,58,6.1,Male,44,Electrophysiologist,Atherectomy,Lovastatin,Mevacor,yes,76686,30390,3,NO,NA,79016,140,4,10,NO,NO,Rejected
+Basic,35,4.9,Male,47,Gastroenterologist,Gastrostomy tube,Panitumumab,Vectibix,No,56292,69012,17,YES,no,96003,150,2,30,NO,NO,Accepted
+Platinum,45,6.1,Male,62,Surgical oncologist,Radical cystectomy and lymph node dissection,Mexate,Methotrexate,No,66872,36581,11,NA,yes,78783,775,4,10,YES,NO,Rejected
+Gold,1,1.5,Male(Child),84,Cardiologist,ASD Repair,Isosorbide dinitrate,Isordil,yes,82645,26661,3,YES,NA,75971,800,2,10,NO,YES,Rejected
+Gold,60,6.2,Male,42,Oncologist,Micrographic surgery,Paraplatin,Carboplatin,No,73663,35626,12,NA,yes,72085,90,2,42,YES,NO,Accepted
+Gold,56,6.1,Male,43,Neurosurgeons,craniotomy,Thioplex,Thiotepa,yes,85993,33965,5,NA,yes,45678,40,2,14,YES,NO,Rejected
+Gold,72,5.9,Female,62,Cardiac surgeon,heart valve replacement,Irbesartan,,No,73217,38289,1,NA,NA,79599,1000,3,28,NO,YES,Rejected
+Gold,59,5.9,Male,66,Urologists,Transurethral bladder tumor resection (TURBT),Aldara,Imiquimod,No,86585,54936,15,NA,NA,52646,12.5,2,20,YES,NO,Partially Accepted
+Platinum,38,5.9,Male,43,Cardiac surgeon,Coronary artery bypass graft (CABG) surgery,Benazepril,Lotensin,No,68560,93413,15,YES,NA,55102,850,3,8,NO,NO,Partially Accepted
+Basic,57,5,Male,76,Electrophysiologist,VSD Repair,Amlodipine,Norvasc,yes,73991,66441,16,NO,NA,83733,200,2,10,YES,YES,Accepted
+Basic,75,5.1,Male,82,Dermatologist,Melanoma,Docetaxel,,No,58784,78998,17,NA,no,78413,600,2,8,NO,NO,Accepted
+Basic,59,5.2,Male,38,Urologists,Radical cystectomy and lymph node dissection,Panitumumab,Vectibix,No,81013,59043,14,NA,NA,79007,850,1,12,NO,NO,Partially Accepted
+Basic,60,6,Male,60,Electrophysiologist,Atherectomy,Furosemide,Lasix,yes,65612,57675,7,YES,yes,83263,775,2,14,YES,YES,Rejected
+Basic,51,5.6,Male,61,Radiation oncologist,Radical cystectomy and lymph node dissection,Avastin,Bevacizumab,No,76502,88406,13,NA,yes,56481,600,2,5,NO,NO,Partially Accepted
+Basic,44,5.9,Male,39,Plastic surgeon,Tracheostomy,Camptosar,Irinotecan generic,yes,77021,40505,1,NO,yes,69378,750,2,21,YES,NO,Rejected
+Basic,23,5.2,Male,64,Non-invasive cardiologist,BDG/ Hemi-Fontan,Bisoprolol/hydrochlorothiazide,Ziac,yes,57134,39633,4,YES,NA,82011,20,3,10,NO,NO,Accepted
+Basic,38,6.2,Male,78,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Cerubidine,Daunorubicin,No,62242,83770,2,NO,yes,60281,100,3,10,YES,NO,Accepted
+Basic,57,6,Female,85,Otolaryngologist,Reconstruction,Panitumumab,Vectibix,yes,94901,50739,2,NO,yes,97722,12.5,4,42,NO,YES,Rejected
+Basic,44,6.5,Female,73,Radiologist,Radical nephrectomy,Panitumumab,Vectibix,No,61711,63700,3,NO,yes,54321,1000,3,14,NO,YES,Partially Accepted
+Basic,1,1.5,Male(Child),48,Radiologist,Partial nephrectomy,Camptosar,Irinotecan generic,No,71919,55054,10,NO,yes,60400,600,2,8,YES,NO,Partially Accepted
+Basic,50,6.1,Male,86,Cardiac surgeon,Left ventricular assist device (LVAD),Atorvastatin,Lipitor,No,85624,64250,10,NA,NA,77339,140,2,42,NO,NO,Partially Accepted
+Platinum,60,6.2,Female,72,Neurosurgeons,craniotomy,Abraxane,Paclitaxel,No,74042,31325,10,NA,no,63186,10,1,8,NO,NO,Partially Accepted
+Gold,30,6.3,Male,32,Cardiac surgeon,Arrhythimia surgery,Candesartan,Atacand,yes,80961,57605,14,YES,yes,74435,140,1,5,NO,YES,Accepted
+Gold,1,1.5,Male(Child),31,Non-invasive cardiologist,Minimally Invasive Heart Surgery,Valsartan,Diovan,yes,92266,34974,3,YES,NA,69745,90,2,12,NO,NO,Rejected
+Gold,65,6.1,Male,32,Pulmonologist,Laryngectomy,Cerubidine,Daunorubicin,No,66857,62818,10,NO,yes,70360,20,3,21,NO,NO,Accepted
+Basic,1,1.5,Female(Child),36,Electrophysiologist,BDG/ Hemi-Fontan,Acetazolamide,Diamox,yes,77272,34571,11,NO,yes,80352,90,1,14,NO,NO,Rejected
+Basic,1,1.5,Male(Child),46,Interventional cardiologist,TOF Repair,Prasugrel,Effient,No,89436,43688,11,YES,NA,74116,300,1,21,YES,YES,Partially Accepted
+Basic,71,5.1,Male,55,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Camptosar,Irinotecan generic,No,93838,44519,13,YES,no,75467,30,2,14,YES,YES,Rejected
+Basic,57,5.2,Male,83,Interventional cardiologist,ASD Repair,Clopidogrel,,No,79936,55147,15,YES,NA,81581,30,2,10,NO,NO,Accepted
+Basic,27,5.5,Female,58,Urologists,Transurethral bladder tumor resection (TURBT),Thioplex,Thiotepa,No,91833,95032,0,NA,no,66038,250,3,42,YES,NO,Partially Accepted
+Basic,38,5.6,Female,61,Neurosurgeons,craniotomy,Doxil,doxorubicin,No,61506,48273,2,NA,no,51751,20,2,10,NO,NO,Partially Accepted
+Platinum,61,5.9,Female,31,Neuro-oncologists,Colostomy,Doxil,doxorubicin,No,64365,56016,12,NA,no,65039,12.5,1,5,NO,YES,Accepted
+Gold,60,5.8,Female,69,Radiation oncologist,Transurethral bladder tumor resection (TURBT),Avastin,Bevacizumab,No,94203,90334,13,NA,yes,82913,25,3,20,YES,NO,Partially Accepted
+Gold,49,5.7,Male,64,Oncologist,Micrographic surgery,Ellence,Epirubicin,yes,66199,98109,5,NA,yes,51174,12.5,3,30,NO,YES,Rejected
+Basic,59,5.6,Male,29,Pathologist,Tracheostomy,oncovin,VINCRISTINE,yes,92846,61527,8,NO,yes,98938,400,2,10,NO,NO,Rejected
+Platinum,58,4.9,Female,53,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Ellence,Epirubicin,yes,80498,93906,16,YES,yes,90143,875,2,12,NO,NO,Rejected
+Basic,1,1.5,Male(Child),45,Pathologist,Tracheostomy,Eloxatin,Oxaliplatin generic,yes,71075,65923,16,NO,yes,55371,140,1,5,YES,YES,Partially Accepted
+Basic,41,5.1,Male,70,Vascular surgeon,Radical cystectomy and lymph node dissection,Docetaxel,,No,77117,77900,14,YES,no,88723,50,4,10,YES,NO,Accepted
+Basic,57,5.9,Male,65,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Mexate,Methotrexate,yes,94426,58304,1,YES,no,83804,40,1,10,NO,YES,Rejected
+Basic,65,5.6,Male,52,Neurosurgeons,craniotomy,Odomzo,Sonidegib,No,79147,80607,15,NA,no,51870,500,3,21,YES,YES,Partially Accepted
+Basic,47,5.4,Female,28,Neurosurgeons,craniotomy,Gemzar,Gemcitabine,No,78310,83143,14,NA,no,70989,300,2,30,NO,NO,Accepted
+Basic,15,5,Female,38,Cardiac surgeon,heart valve replacement,Nadolol,Corgard,No,88010,86189,14,NA,NA,98208,90,2,10,NO,YES,Accepted
+Basic,48,5.9,Male,43,Gastroenterologist,Gastrostomy tube,Ellence,Epirubicin,No,68658,36342,16,YES,no,67160,10,1,42,NO,NO,Accepted
+Gold,44,5.9,Female,77,Medical oncologist,Segmentectomy,Zykadia,Ceritinib,No,61863,43232,5,YES,no,56789,875,2,20,NO,NO,Partially Accepted
+Gold,59,6,Male,38,Surgical oncologist,Transoral robotic surgery and transoral laser microsurgery,Avastin,Bevacizumab,No,86769,84865,13,NA,yes,91044,160,1,14,YES,NO,Accepted
+Gold,44,6,Female,70,Cardiologist,Transcatheter Aortic Valve Replacement (TAVR),Atorvastatin,Lipitor,No,93412,41290,5,YES,no,65641,850,1,8,NO,YES,Rejected
+Gold,32,6.1,Male,89,Pulmonologist,Laryngectomy,Zykadia,Ceritinib,yes,65893,26794,6,NO,yes,68432,200,2,12,YES,YES,Rejected
+Gold,0,1,Female(Child),49,Cardiac surgeon,Coronary artery bypass graft (CABG) surgery,Perindopril,Aceon,No,58126,66905,5,NA,NA,63545,300,2,28,NO,NO,Accepted
+Basic,53,5.6,Male,29,Pulmonologist,Laryngectomy,Avastin,Bevacizumab,No,72105,35346,13,NO,yes,57184,19,1,21,NO,YES,Partially Accepted
+Basic,40,5.8,Male,89,Non-invasive cardiologist,TOF Repair,Candesartan,Atacand,yes,70496,43015,11,YES,NA,70793,150,4,28,YES,NO,Rejected
+Basic,28,5.7,Female,55,Maxillofacial surgeon,Reconstruction,Ellence,Epirubicin,No,84314,70873,14,NO,no,65713,125,1,12,NO,YES,Partially Accepted
+Platinum,65,5.5,Female,66,Neurosurgeons,craniotomy,Opdivo,Nivolumab,No,76327,88133,16,NA,no,86721,200,4,30,NO,NO,Accepted
+Basic,40,5.6,Male,69,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Opdivo,Nivolumab,No,85821,36054,8,NO,yes,60099,50,4,20,NO,NO,Rejected
+Basic,35,5.1,Male,39,Medical oncologist,Glossectomy,Paraplatin,Carboplatin,No,92700,36370,3,YES,no,54651,40,1,14,YES,NO,Rejected
+Basic,50,5.9,Female,74,Cardiologist,Surgical Aortic Valve Replacement (SAVR),Amlodipine,Norvasc,No,73018,86526,5,NA,no,56743,250,1,28,YES,NO,Partially Accepted
+Basic,58,5.1,Female,80,Interventional cardiologist,BDG/ Hemi-Fontan,Candesartan,Atacand,No,74958,91229,2,YES,NA,85855,50,3,42,NO,NO,Accepted
+Platinum,31,5.2,Male,84,Radiologist,Partial nephrectomy,Docetaxel,,yes,60525,45411,6,NO,yes,73728,875,2,10,NO,NO,Accepted
+Basic,24,5.2,Male,34,Maxillofacial surgeon,Reconstruction,Avastin,Bevacizumab,yes,86360,45758,9,NO,yes,68729,560,2,23,YES,YES,Rejected
+Basic,44,5.9,Male,29,Oncologist,Micrographic surgery,Panitumumab,Vectibix,No,63091,36475,10,NA,yes,58172,775,2,28,NO,NO,Rejected
+Basic,30,6,Female,86,Breast surgeon,Lumpectomy,Eloxatin,Oxaliplatin generic,No,57069,96043,4,NA,no,59423,30,1,5,YES,NO,Accepted
+Platinum,38,5.4,Male,29,Pulmonologist,Laryngectomy,Rozlytrek,Entrectinib,No,77388,34123,12,NO,yes,91712,775,2,20,NO,NO,Accepted
+Gold,54,5.8,Male,85,Breast surgeon,Mastectomy,Cytoxan,Cyclophosphamide,No,64733,47458,14,NA,no,84405,125,1,14,NO,YES,Accepted
+Basic,1,1.7,Female(Child),38,Electrophysiologist,Truncus Repair,Candesartan,Atacand,yes,65355,77702,11,YES,yes,90368,30,1,4,NO,NO,Accepted
+Basic,66,5.9,Female,35,Radiologist,Partial nephrectomy,Paraplatin,Carboplatin,No,86617,58455,12,NO,yes,50435,40,4,8,NO,YES,Partially Accepted
+Basic,1,1.5,Female(Child),75,Otolaryngologist,Reconstruction,Doxil,doxorubicin,yes,91463,57928,17,NO,no,96761,150,3,14,NO,YES,Rejected
+Gold,59,5.5,Male,41,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,oncovin,VINCRISTINE,No,68276,40909,2,NO,yes,84909,25,3,20,YES,NO,Partially Accepted
+Basic,44,5.8,Female,69,Radiologist,Radical nephrectomy,Abraxane,Paclitaxel,No,79880,50515,15,NO,yes,70790,12.5,3,5,NO,NO,Partially Accepted
+Basic,54,5.6,Female,68,Cardiologist,VSD Repair,Felodipine,Plendil,No,89366,77994,6,NA,no,98602,150,2,12,NO,NO,Accepted
+Platinum,50,5.5,Male,77,Electrophysiologist,TOF Repair,Furosemide,Lasix,yes,81674,84037,17,NO,yes,82937,200,2,24,NO,YES,Rejected
+Gold,63,5.6,Female,33,Radiation oncologist,Transurethral bladder tumor resection (TURBT),Cerubidine,Daunorubicin,No,92092,98975,11,YES,no,64722,50,4,14,NO,NO,Partially Accepted
+Gold,43,5.6,Male,67,Neurosurgeons,craniotomy,Taxol,Paclitaxel,No,93874,46716,6,NA,no,56728,200,2,30,NO,NO,Rejected
+Gold,66,5.8,Male,80,Pathologist,Tracheostomy,Zykadia,Ceritinib,yes,77178,83704,17,NO,yes,52517,400,2,30,YES,YES,Partially Accepted
+Gold,51,5.4,Male,58,Neuro-oncologists,stereotaxis,Gemzar,Gemcitabine,No,67705,60324,10,NA,no,85456,400,2,20,NO,NO,Accepted
+Gold,8,4,Male(Child),53,Surgical oncologist,Radical cystectomy and lymph node dissection,Aldara,Imiquimod,No,66601,83732,8,NA,yes,71196,400,3,28,NO,NO,Accepted
+Basic,69,5.5,Male,30,Dermatologist,Melanoma,Eloxatin,Oxaliplatin generic,No,66742,75044,7,NA,no,94557,90,3,14,NO,NO,Accepted
+Basic,19,5.5,Male,39,Cardiac surgeon,Aortic Surgery,Enalapril,Vasotec,yes,82376,37991,7,YES,NA,63129,50,3,12,NO,NO,Rejected
+Basic,30,5.5,Male,30,Neuro-oncologists,stereotaxis,Docetaxel,,No,91368,39429,15,NA,no,52544,560,2,20,NO,NO,Rejected
+Gold,1,1.5,Female(Child),65,Oncologist,Mandibulectomy,Cytoxan,Cyclophosphamide,No,82971,47607,13,NA,no,91018,875,1,14,YES,NO,Rejected
+Basic,1,1,Female(Child),70,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Aldara,Imiquimod,No,81505,42092,6,YES,yes,54321,500,2,5,NO,NO,Partially Accepted
+Platinum,19,5.7,Female,51,Breast surgeon,Mastectomy,Thioplex,Thiotepa,No,86223,72518,2,NA,no,69409,250,3,8,NO,NO,Partially Accepted
+Basic,37,5.6,Female,80,Dermatologist,Melanoma,Panitumumab,Vectibix,No,66884,87310,14,NA,no,69158,250,2,30,NO,YES,Accepted
+Gold,32,5.7,Male,84,Surgical oncologist,Radical cystectomy and lymph node dissection,Rozlytrek,Entrectinib,No,74881,67670,6,NA,yes,59757,560,3,21,NO,NO,Partially Accepted
+Gold,14,5,Female(Child),46,Dermatologist,Melanoma,Doxil,doxorubicin,No,62242,66179,4,NA,no,87082,200,1,28,YES,NO,Accepted
+Gold,19,5.4,Female,50,Dermatologist,Melanoma,Cerubidine,Daunorubicin,No,58561,30439,4,NA,yes,51110,850,3,30,YES,NO,Rejected
+Basic,57,5.9,Male,54,Pathologist,Tracheostomy,oncovin,VINCRISTINE,yes,71511,69498,10,NO,yes,62875,100,4,27,YES,NO,Rejected
+Basic,42,5.2,Female,86,Otolaryngologist,Neck dissection,Docetaxel,,yes,90544,79800,12,NO,yes,56226,10,1,21,NO,NO,Rejected
+Gold,16,5.6,Male,69,Cardiac surgeon,Aortic Surgery,Prasugrel,Effient,yes,64280,54286,17,YES,yes,70720,1000,2,20,YES,YES,Accepted
+Gold,19,5.3,Male,29,Radiologist,Radical nephrectomy,Eloxatin,Oxaliplatin generic,No,63716,79290,4,NO,yes,59247,200,4,7,NO,YES,Accepted
+Gold,55,5.9,Male,88,Pathologist,Tracheostomy,Panitumumab,Vectibix,yes,79969,70369,6,NO,yes,88200,560,1,7,NO,NO,Accepted
+Gold,37,5.3,Male,88,Oncologist,Lobectomy,Cerubidine,Daunorubicin,No,86431,47063,11,NA,yes,84580,125,3,20,NO,YES,Accepted
+Basic,31,5.8,Female,30,Maxillofacial surgeon,Reconstruction,Opdivo,Nivolumab,No,63764,50106,7,NO,no,70586,400,3,42,NO,NO,Partially Accepted
+Basic,71,5.5,Male,73,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Eloxatin,Oxaliplatin generic,No,76957,90615,14,YES,no,93967,40,3,30,NO,NO,Rejected
+Basic,35,6,Female,32,Dermatologist,Melanoma,Cytoxan,Cyclophosphamide,No,73645,53019,11,NA,no,96655,1000,4,12,NO,YES,Rejected
+Basic,45,5.1,Male,33,Urologists,Radical cystectomy and lymph node dissection,Abraxane,Paclitaxel,No,92385,67154,3,NA,NA,96220,6.25,1,7,NO,YES,Rejected
+Basic,52,6,Male,88,Oncologist,Lobectomy,Docetaxel,,No,70522,76489,3,NA,yes,52240,250,1,8,NO,YES,Rejected
+Basic,55,5.2,Female,83,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Gemzar,Gemcitabine,yes,75377,82138,4,YES,yes,81182,500,1,20,NO,YES,Partially Accepted
+Basic,35,5.4,Female,57,Surgical oncologist,Radical cystectomy and lymph node dissection,oncovin,VINCRISTINE,No,65795,32056,5,NA,yes,56554,775,2,8,NO,NO,Partially Accepted
+Gold,70,5.3,Female,34,Neurosurgeons,craniotomy,Rozlytrek,Entrectinib,No,94068,55012,2,NA,no,60403,875,2,10,YES,YES,Partially Accepted
+Gold,62,5.8,Female,45,Surgical oncologist,A wedge resection,Eloxatin,Oxaliplatin generic,No,71356,38114,7,NA,yes,84787,1000,1,42,NO,YES,Rejected
+Gold,64,5.9,Male,77,Otolaryngologist,Reconstruction,Camptosar,Irinotecan generic,yes,68580,91633,1,NO,no,53875,560,1,30,NO,YES,Partially Accepted
+Gold,67,5.8,Male,84,Interventional cardiologist,TOF Repair,Hydralazine,Apresoline,No,77223,36513,3,NO,NA,88159,200,3,7,NO,NO,Rejected
+Basic,72,5.8,Male,63,Electrophysiologist,TOF Repair,Isosorbide dinitrate,Isordil,yes,73748,94854,8,YES,yes,57182,500,3,21,YES,NO,Accepted
+Platinum,0,1,Male(Child),37,Otolaryngologist,Reconstruction,Camptosar,Irinotecan generic,yes,91858,60120,9,NO,no,64852,12.5,2,42,NO,NO,Accepted
+Basic,26,5.1,Female,58,Plastic surgeon,Radiofrequency ablation (RFA) or cryoablation,Opdivo,Nivolumab,No,65064,50975,4,NO,yes,81363,400,1,14,NO,NO,Accepted
+Basic,66,6,Female,78,Urologists,Transurethral bladder tumor resection (TURBT),Opdivo,Nivolumab,yes,67911,33415,17,NA,NA,77001,500,1,29,NO,NO,Rejected
+Gold,0,1,Female(Child),85,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Ellence,Epirubicin,No,62573,38761,12,NO,yes,88791,560,2,42,YES,YES,Rejected
+Gold,31,5.2,Male,68,Neurosurgeons,craniotomy,Aldara,Imiquimod,No,73522,81572,6,NA,no,65975,125,3,12,NO,YES,Partially Accepted
+Gold,17,5.2,Male,64,Gastroenterologist,Gastrostomy tube,Mexate,Methotrexate,No,64529,43917,6,YES,no,59923,140,2,10,NO,YES,Partially Accepted
+Gold,47,5.7,Male,76,Urologists,Transurethral bladder tumor resection (TURBT),Camptosar,Irinotecan generic,No,81599,64100,17,NA,NA,70661,200,3,10,YES,NO,Partially Accepted
+Basic,38,5.5,Male,49,Pulmonologist,Laryngectomy,Cytoxan,Cyclophosphamide,No,57475,56709,2,NO,yes,85936,160,1,8,NO,NO,Accepted
+Platinum,22,5.1,Female,69,Plastic surgeon,Colostomy,Aldara,Imiquimod,No,93366,75151,17,NO,yes,97483,150,3,8,YES,NO,Accepted
+Platinum,42,5.5,Female,88,Otolaryngologist,Reconstruction,Thioplex,Thiotepa,yes,85875,93985,11,NO,no,81238,500,2,12,NO,NO,Partially Accepted
+Basic,45,5.6,Female,50,Dermatologist,Melanoma,Ellence,Epirubicin,No,89258,41281,1,NA,no,51952,100,4,12,NO,NO,Rejected
+Basic,40,5.6,Female,54,Breast surgeon,Sentinel lymph node biopsy (SLNB),Aldara,Imiquimod,No,74376,35435,5,NA,no,73568,25,1,28,NO,NO,Rejected
+Basic,13,4.9,Female(Child),44,Radiation oncologist,Urinary diversion.,Gemzar,Gemcitabine,No,90516,46273,6,NA,no,86069,100,3,21,YES,NO,Rejected
+Basic,65,5.4,Female,66,Neurosurgeons,craniotomy,Docetaxel,NA,No,83476,39625,2,NA,no,80822,200,2,7,NO,NO,Rejected
+Basic,47,5.3,Male,86,Dermatologist,Melanoma,Rozlytrek,Entrectinib,No,81913,73086,10,NA,no,64568,300,4,42,YES,NO,Rejected
+Basic,30,5.2,Female,49,Radiologist,Radical nephrectomy,Eloxatin,Oxaliplatin generic,No,67746,76931,16,NO,yes,56671,500,3,5,YES,YES,Accepted
+Basic,0,1,Female(Child),72,Surgical oncologist,A wedge resection,Opdivo,Nivolumab,No,55655,41939,3,NA,yes,92791,400,2,5,YES,NO,Partially Accepted
+Basic,41,5.5,Male,46,Radiologist,Partial nephrectomy,Doxil,doxorubicin,No,93733,42236,9,NO,yes,87271,200,1,30,YES,YES,Rejected
+Basic,30,5.5,Female,90,Maxillofacial surgeon,Reconstruction,Gemzar,Gemcitabine,No,71168,48786,11,NO,no,95624,100,3,7,YES,NO,Rejected
+Gold,54,5.4,Female,73,Otolaryngologist,Neck dissection,Zykadia,Ceritinib,yes,67259,63488,2,NO,yes,90349,750,4,14,NO,YES,Partially Accepted
+Basic,1,1.6,Male(Child),79,Cardiac surgeon,Coronary artery bypass graft (CABG) surgery,Heparin,various,yes,59635,36055,16,YES,yes,97926,850,1,42,YES,YES,Rejected
+Gold,49,5.4,Male,70,Oncologist,Micrographic surgery,Doxil,doxorubicin,No,72811,25008,2,NA,yes,94539,800,2,12,YES,NO,Rejected
+Gold,45,5.4,Male,70,Maxillofacial surgeon,Reconstruction,Opdivo,Nivolumab,No,58093,49820,8,NO,no,93153,500,3,20,YES,NO,Partially Accepted
+Gold,43,5.9,Male,69,Maxillofacial surgeon,Reconstruction,Ellence,Epirubicin,No,72357,59214,11,NO,no,60080,1000,2,30,YES,YES,Rejected
+Gold,60,5.5,Female,34,Maxillofacial surgeon,Reconstruction,Abraxane,Paclitaxel,No,77807,47734,11,NO,no,76252,25,3,20,NO,YES,Rejected
+Gold,63,5.9,Female,79,Surgical oncologist,Urinary diversion,oncovin,VINCRISTINE,No,55813,70677,14,NA,yes,63698,800,3,28,YES,YES,Accepted
+Basic,3,3,Female(Child),39,Dermatologist,Melanoma,Gemzar,Gemcitabine,No,77369,60825,11,NA,no,65691,40,1,12,YES,YES,Accepted
+Basic,15,5.8,Female,76,Breast surgeon,Axillary lymph node dissection (ALND),Aldara,Imiquimod,No,75769,37716,7,NA,no,67387,40,3,14,NO,NO,Rejected
+Basic,45,5.6,Male,41,Pulmonologist,Laryngectomy,Camptosar,Irinotecan generic,No,59884,46098,10,NO,yes,95717,400,1,28,YES,YES,Rejected
+Basic,49,5.2,Female,78,Oncologist,Mandibulectomy,Taxol,Paclitaxel,No,74381,46205,5,NA,no,77693,500,1,10,YES,YES,Rejected
+Basic,47,5.9,Female,87,Pathologist,Radical nephrectomy,oncovin,VINCRISTINE,yes,63013,66858,17,NO,yes,75309,750,2,20,YES,NO,Accepted
+Basic,46,5.5,Male,29,Otolaryngologist,Reconstruction,Panitumumab,Vectibix,yes,64687,86269,2,NO,no,93354,800,1,20,NO,NO,Rejected
+Basic,85,5.9,Male,84,Maxillofacial surgeon,Reconstruction,Docetaxel,,No,77146,59513,17,NO,no,53135,90,2,14,NO,YES,Rejected
+Basic,61,5.3,Female,46,Urologists,Urinary diversion,Eloxatin,Oxaliplatin generic,No,72193,50199,6,NA,NA,72405,90,1,20,YES,YES,Partially Accepted
+Basic,43,5.6,Male,83,Plastic surgeon,Tracheostomy,Cytoxan,Cyclophosphamide,No,74317,92801,4,NO,yes,95122,6.25,3,12,YES,NO,Accepted
+Basic,40,5.2,Male,82,Surgical oncologist,A wedge resection,Gemzar,Gemcitabine,No,82896,34186,14,NA,yes,97466,160,3,21,YES,NO,Rejected
+Platinum,28,5.1,Male,53,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Rozlytrek,Entrectinib,No,69203,34840,5,NA,yes,61643,600,2,42,YES,NO,Rejected
+Gold,24,5.2,Female,52,Pulmonologist,Laryngectomy,Avastin,Bevacizumab,No,77432,78405,6,NO,yes,50073,40,4,14,NO,NO,Accepted
+Gold,1,1,Female(Child),35,Electrophysiologist,TOF Repair,Clopidogrel,Plavix,yes,55625,62970,10,YES,yes,57239,500,1,20,YES,NO,Rejected
+Gold,45,5.3,Female,76,Urologists,Urinary diversion,oncovin,VINCRISTINE,No,71617,81359,9,NA,NA,52023,30,3,14,NO,NO,Partially Accepted
+Basic,44,5.2,Male,60,Pathologist,Tracheostomy,Gemzar,Gemcitabine,yes,86368,83311,16,NO,yes,75905,40,1,30,YES,YES,Rejected
+Basic,50,5.2,Male,59,Cardiac surgeon,Heart transplant,Captopril,Capoten,No,78678,80040,8,YES,NA,96541,50,2,14,NO,YES,Partially Accepted
+Basic,35,5.3,Female,44,Surgical oncologist,Mandibulectomy,Taxol,Paclitaxel,No,88829,53413,10,NA,yes,67317,150,2,20,YES,YES,Rejected
+Basic,64,5.7,Female,73,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Avastin,Bevacizumab,No,57166,65930,1,NO,yes,63066,140,2,14,NO,YES,Accepted
+Basic,41,5.7,Male,69,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Thioplex,Thiotepa,No,86745,67899,3,YES,no,82781,12.5,2,20,NO,NO,Rejected
+Basic,33,5,Female,50,Cardiac surgeon,Valvular surgery,Bisoprolol/hydrochlorothiazide,Ziac,No,60154,46904,7,NA,NA,72120,6.25,3,7,NO,NO,Rejected
+Basic,0,1,Female(Child),64,Medical oncologist,Glossectomy,Panitumumab,Vectibix,No,67234,60041,8,YES,no,57485,10,3,8,NO,NO,Partially Accepted
+Basic,58,5.5,Male,57,Breast surgeon,Sentinel lymph node biopsy (SLNB),Taxol,Paclitaxel,No,79316,47987,11,NA,no,87137,140,2,20,NO,NO,Rejected
+Basic,47,5.8,Female,48,Thoracic surgeon,Sentinel lymph node biopsy (SLNB),oncovin,VINCRISTINE,yes,77911,62724,7,YES,yes,97084,25,3,42,NO,NO,Rejected
+Gold,21,5.4,Male,67,Otolaryngologist,Neck dissection,Avastin,Bevacizumab,yes,81996,80222,4,NO,yes,76961,125,2,30,NO,YES,Rejected
+Basic,26,5.7,Female,29,Vascular surgeon,Radical cystectomy and lymph node dissection,DaunoXome,Daunorubicin,No,63324,66799,3,YES,yes,90257,200,2,10,NO,NO,Rejected
+Platinum,16,5.2,Male,59,Plastic surgeon,Radiofrequency ablation (RFA) or cryoablation,Cytoxan,Cyclophosphamide,No,71627,28754,6,NO,yes,69534,250,1,28,YES,YES,Rejected
+Gold,60,5.1,Female,71,Interventional cardiologist,Cardiomyoplasty,Lisinopril,"Prinivil, Zestril",yes,62010,57931,5,YES,NA,84349,90,1,10,YES,YES,Rejected
+Gold,56,6.2,Male,47,Surgical oncologist,Mandibulectomy,Camptosar,Irinotecan generic,No,60621,74993,14,NA,yes,55727,500,3,10,YES,NO,Accepted
+Gold,48,6,Male,76,Plastic surgeon,Colostomy,Doxil,doxorubicin,No,66693,49396,2,NO,yes,62217,800,2,8,YES,YES,Partially Accepted
+Gold,74,6.5,Male,68,Thoracic surgeon,Sentinel lymph node biopsy (SLNB),Camptosar,Irinotecan generic,yes,68731,76299,6,YES,yes,53718,300,3,21,NO,YES,Rejected
+Gold,52,5.9,Male,42,Pulmonologist,Colostomy,Odomzo,Sonidegib,No,66747,85727,17,NO,yes,85123,50,2,20,NO,YES,Accepted
+Platinum,35,6.4,Male,89,Plastic surgeon,Tracheostomy,Taxol,Paclitaxel,No,57535,42263,14,NO,yes,53106,150,4,42,NO,NO,Accepted
+Platinum,49,5.7,Female,49,Maxillofacial surgeon,Reconstruction,Taxol,Paclitaxel,No,79857,31796,1,NO,no,87794,1000,2,20,YES,NO,Rejected
+Basic,50,6.6,Female,58,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Panitumumab,Vectibix,No,64441,51022,15,NO,yes,93464,400,2,14,YES,YES,Partially Accepted
+Basic,59,6.4,Female,49,Cardiac surgeon,Aortic valve surgery,Fosinopril,Monopril,No,94666,48837,13,YES,NA,88187,200,2,42,YES,NO,Rejected
+Basic,40,6.4,Female,55,Gastroenterologist,Gastrostomy tube,Cerubidine,Daunorubicin,No,79214,50171,1,YES,no,61226,400,1,14,YES,NO,Rejected
+Basic,49,5.9,Female,63,Cardiologist,Radiofrequency Ablation/ Catheter Ablation,Ezetimibe,Zetia,No,73864,56582,6,YES,no,70197,250,2,20,YES,NO,Rejected
+Basic,66,6.5,Male,39,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Abraxane,Paclitaxel,No,61737,63325,16,NO,yes,89015,400,3,28,YES,NO,Accepted
+Basic,35,6.6,Male,47,Otolaryngologist,Reconstruction,Taxol,Paclitaxel,yes,65621,81487,12,NO,no,93316,250,3,7,YES,NO,Partially Accepted
+Basic,35,6.1,Male,59,Vascular surgeon,Radical cystectomy and lymph node dissection,Adriamycin,Doxorubicin,No,93924,38891,3,YES,yes,62416,250,2,10,YES,NO,Rejected
+Gold,12,4,Male(Child),31,Interventional cardiologist,BDG/ Hemi-Fontan,Minoxidil,,No,82225,46640,4,NO,NA,88762,90,4,42,YES,YES,Rejected
+Platinum,41,6.5,Male,85,Gastroenterologist,Gastrostomy tube,Doxil,doxorubicin,No,60969,93755,6,YES,no,66043,560,4,20,NO,NO,Rejected
+Basic,60,6,Male,61,Maxillofacial surgeon,Reconstruction,Adriamycin,Doxorubicin,No,71254,87219,8,NO,no,67741,6.25,3,14,NO,YES,Accepted
+Basic,0,1,Female(Child),62,Surgical oncologist,Radical cystectomy and lymph node dissection,Gemzar,Gemcitabine,No,89860,60663,3,NA,yes,65882,300,3,42,YES,NO,Partially Accepted
+Basic,55,5.8,Female,49,Pathologist,Tracheostomy,Thioplex,Thiotepa,yes,63915,98162,11,NO,yes,99331,12.5,1,28,NO,YES,Rejected
+Platinum,40,5.9,Female,90,Neuro-oncologists,Radiofrequency ablation (RFA) or cryoablation,Cerubidine,Daunorubicin,No,83704,74656,7,NA,no,71494,30,2,28,NO,NO,Partially Accepted
+Gold,50,6,Male,33,Dermatologist,Melanoma,Opdivo,Nivolumab,No,87681,57326,7,NA,no,84288,300,2,30,NO,YES,Rejected
+Gold,3,2.5,Female(Child),70,Cardiac surgeon,Stent placement,Sacubitril/valsartan,Entresto,No,68775,73980,10,NA,NA,64884,90,2,7,NO,NO,Accepted
+Gold,26,6.3,Male,74,Plastic surgeon,Colostomy,Ellence,Epirubicin,No,68850,89861,11,NO,yes,57075,800,1,14,YES,YES,Rejected
+Gold,22,6,Female,43,Non-invasive cardiologist,Cardiomyoplasty,Simvastatin,Zocor,yes,82435,33907,1,NO,NA,73575,50,4,30,NO,YES,Rejected
+Gold,66,5.7,Male,57,Electrophysiologist,BDG/ Hemi-Fontan,Hydralazine,Apresoline,yes,83000,74517,13,YES,yes,83323,850,1,10,NO,NO,Rejected
+Platinum,22,6.5,Male,53,Electrophysiologist,Surgical Aortic Valve Replacement (SAVR),Candesartan,Atacand,yes,66011,90709,7,YES,yes,51773,19,2,42,YES,NO,Rejected
+Basic,52,6.4,Female,30,Maxillofacial surgeon,Reconstruction,Camptosar,Irinotecan generic,No,64115,58547,8,NO,no,79220,1000,1,30,YES,NO,Partially Accepted
+Basic,48,5.7,Female,69,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Opdivo,Nivolumab,No,68721,73657,2,NO,yes,74066,250,2,10,NO,YES,Accepted
+Basic,19,5.3,Male,80,Radiologist,Radical nephrectomy,Eloxatin,Oxaliplatin generic,yes,67137,94512,10,NO,yes,75112,775,4,7,NO,NO,Partially Accepted
+Basic,10,4,Female(Child),47,Neuro-oncologists,Radiofrequency ablation (RFA) or cryoablation,Abraxane,Paclitaxel,No,64918,94432,12,NA,no,71843,100,1,30,YES,YES,Accepted
+Basic,65,6.7,Female,76,Pathologist,Tracheostomy,Ellence,Epirubicin,yes,57246,30682,17,NO,yes,68465,560,2,21,YES,NO,Rejected
+Basic,48,6.7,Male,57,Plastic surgeon,Radiofrequency ablation (RFA) or cryoablation,Panitumumab,Vectibix,No,71392,76166,3,NO,yes,69898,125,1,7,YES,NO,Accepted
+Basic,26,6,Female,76,Pathologist,Tracheostomy,Ellence,Epirubicin,yes,85955,85738,13,NO,yes,93959,19,4,30,NO,YES,Rejected
+Basic,67,5.8,Male,64,Surgical oncologist,Mandibulectomy,Cerubidine,Daunorubicin,No,88000,45602,12,NA,yes,73394,100,2,12,NO,NO,Rejected
+Basic,14,5.1,Female(Child),35,Plastic surgeon,Colostomy,Mexate,Methotrexate,No,77524,51415,8,NO,yes,66633,50,1,20,YES,NO,Rejected
+Basic,35,6.2,Female,52,Electrophysiologist,Cardiomyoplasty,Hydro-chlorothiazide,Hydrodiuril,yes,72208,56810,10,YES,yes,87518,30,3,8,YES,NO,Rejected
+Basic,56,5.9,Male,88,Neurosurgeons,craniotomy,Panitumumab,Vectibix,No,86864,80015,12,NA,no,80584,200,2,30,NO,NO,Accepted
+Basic,38,5.9,Female,46,Radiologist,Radical nephrectomy,Cytoxan,Cyclophosphamide,No,83757,60255,1,NO,yes,70599,600,2,10,YES,YES,Rejected
+Basic,63,6,Female,81,Cardiac surgeon,Transmyocardial Revascularization (TMR),Candesartan,Atacand,No,83518,98718,11,NA,NA,52028,250,2,5,YES,NO,Accepted
+Basic,42,6.6,Male,71,Pathologist,Tracheostomy,Eloxatin,Oxaliplatin generic,yes,63912,25120,9,NO,yes,57945,1000,2,14,NO,NO,Rejected
+Basic,37,5.7,Male,72,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Cytoxan,Cyclophosphamide,No,60791,31171,2,NO,yes,54604,875,2,20,NO,YES,Rejected
+Basic,0,1,Female(Child),47,Electrophysiologist,Fontan,Dipyridamole,Persantine,yes,78974,85971,14,YES,yes,77840,600,1,14,NO,YES,Rejected
+Gold,45,5.9,Female,52,Breast surgeon,Axillary lymph node dissection (ALND),Avastin,Bevacizumab,No,65778,72740,17,NA,no,83301,400,1,28,NO,NO,Accepted
+Gold,55,6.7,Female,77,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Aldara,Imiquimod,No,57335,98308,14,YES,no,52621,500,3,12,YES,YES,Partially Accepted
+Gold,20,5.9,Female,43,Urologists,Urinary diversion,Gemzar,Gemcitabine,No,64676,57928,11,NA,NA,94693,875,1,30,NO,NO,Partially Accepted
+Basic,55,6.2,Male,86,Pathologist,Tracheostomy,Mexate,Methotrexate,yes,69564,61525,16,NO,yes,99004,250,3,21,YES,YES,Rejected
+Basic,72,5.7,Female,67,Otolaryngologist,Neck dissection,DaunoXome,Daunorubicin,yes,84991,37229,14,NO,yes,77257,775,2,12,NO,YES,Rejected
+Basic,28,6.2,Male,34,Pulmonologist,Laryngectomy,Taxol,Paclitaxel,No,55047,38169,11,NO,yes,60157,775,3,21,YES,YES,Rejected
+Basic,53,6.1,Female,36,Cardiologist,VSD Repair,Isosorbide mononitrate,Imdur,No,63256,72037,11,NO,NA,70007,40,1,7,NO,NO,Accepted
+Basic,66,5.9,Male,75,Cardiologist,Truncus Repair,Furosemide,Lasix,No,94838,85248,10,YES,NA,62919,40,2,14,NO,YES,Partially Accepted
+Basic,11,4,Male(Child),89,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),oncovin,VINCRISTINE,No,84204,64995,9,YES,no,87957,20,4,14,NO,YES,Rejected
+Basic,40,6.7,Male,39,Cardiologist,Radiofrequency Ablation/ Catheter Ablation,Torsemide,Demadex,No,60659,47476,2,NO,NA,51912,800,3,8,YES,NO,Partially Accepted
+Basic,45,6.3,Female,78,Non-invasive cardiologist,Atherectomy,Telmisartan,Micardis,yes,91538,30684,8,YES,NA,62831,125,2,8,NO,YES,Rejected
+Basic,45,6.1,Male,82,Pulmonologist,Laryngectomy,oncovin,VINCRISTINE,No,79614,45495,4,NO,yes,86572,850,2,20,YES,YES,Rejected
+Platinum,23,5.9,Male,35,Pulmonologist,Laryngectomy,Paraplatin,Carboplatin,No,63856,66769,17,NO,yes,79697,850,4,5,NO,NO,Accepted
+Platinum,67,6.2,Female,50,Cardiologist,CAVC Repair,Chlorothiazide,Diuril,No,61655,95996,7,YES,NA,59982,150,4,10,NO,NO,Partially Accepted
+Gold,29,6.5,Male,65,Electrophysiologist,Fontan,Felodipine,Plendil,yes,75165,37450,14,NO,NA,89022,19,2,28,YES,YES,Rejected
+Gold,60,5.9,Male,74,Urologists,Urinary diversion,Avastin,Bevacizumab,No,63762,76835,17,NA,NA,71049,150,4,7,YES,NO,Accepted
+Gold,1,1,Female(Child),51,Neurosurgeons,craniotomy,Cytoxan,Cyclophosphamide,No,60922,50540,14,NA,no,57042,150,3,20,NO,YES,Partially Accepted
+Gold,34,6.4,Female,69,Electrophysiologist,Fontan,Furosemide,Lasix,yes,77902,47148,4,NO,yes,74592,19,2,42,YES,NO,Rejected
+Basic,65,5.7,Female,36,Neuro-oncologists,stereotaxis,Mexate,Methotrexate,No,71550,56754,2,NA,no,59786,160,1,12,YES,YES,Rejected
+Basic,35,6.3,Male,40,Breast surgeon,Sentinel lymph node biopsy (SLNB),Panitumumab,Vectibix,No,79937,67552,4,NA,no,91243,30,3,14,NO,YES,Partially Accepted
+Basic,39,6.3,Female,79,Breast surgeon,Mastectomy,Opdivo,Nivolumab,No,77289,70462,13,NA,no,80917,500,4,30,NO,NO,Partially Accepted
+Basic,61,6.3,Female,74,Oncologist,Micrographic surgery,Zykadia,Ceritinib,No,63236,33979,16,NA,yes,59185,600,2,14,NO,NO,Rejected
+Basic,36,6.6,Female,36,Otolaryngologist,Reconstruction,Eloxatin,Oxaliplatin generic,yes,81159,30637,6,NO,no,85658,140,3,5,NO,NO,Rejected
+Basic,50,6.2,Male,38,Neurosurgeons,craniotomy,oncovin,VINCRISTINE,No,73879,97917,17,NA,no,79284,90,4,20,YES,YES,Accepted
+Basic,39,5.7,Male,69,Pulmonologist,Mandibulectomy,Thioplex,Thiotepa,No,70062,84762,9,NA,yes,60973,875,1,30,NO,NO,Partially Accepted
+Basic,38,6,Female,38,Oncologist,Neck dissection,Thioplex,Thiotepa,No,94349,25576,10,NA,yes,80547,400,1,21,NO,NO,Rejected
+Basic,27,6.5,Male,61,Radiologist,Partial nephrectomy,Camptosar,Irinotecan generic,yes,72068,29980,5,NO,yes,51038,40,2,21,NO,YES,Rejected
+Basic,0,1,Male(Child),54,Gastroenterologist,Gastrostomy tube,Gemzar,Gemcitabine,No,81488,74264,16,YES,no,73386,250,3,7,NO,NO,Rejected
+Basic,27,5.9,Female,47,Cardiologist,Surgical Aortic Valve Replacement (SAVR),Digoxin,Lanoxin,No,82284,90749,9,YES,no,70934,160,2,21,NO,YES,Partially Accepted
+Basic,36,6.2,Male,60,Surgical oncologist,Axillary lymph node dissection (ALND),Eloxatin,Oxaliplatin generic,No,83276,72390,5,NA,yes,58193,50,4,42,YES,NO,Rejected
+Basic,19,5.6,Male,72,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Avastin,Bevacizumab,No,92732,64809,6,NO,yes,85652,500,1,20,NO,YES,Rejected
+Platinum,48,6.6,Male,73,Maxillofacial surgeon,Reconstruction,Rozlytrek,Entrectinib,No,88859,75421,11,NO,no,58328,30,1,30,NO,NO,Partially Accepted
+Gold,54,6.6,Female,55,Medical oncologist,Glossectomy,Zykadia,Ceritinib,No,68986,93973,5,YES,no,85401,560,2,42,YES,YES,Accepted
+Gold,61,5.9,Female,77,Electrophysiologist,ASO,Nisoldipine,Sular,yes,59198,32988,11,NO,NA,51959,30,2,5,NO,NO,Rejected
+Gold,71,5.9,Male,57,Dermatologist,Melanoma,Mexate,Methotrexate,No,63088,98217,10,NA,no,77424,775,3,28,NO,NO,Accepted
+Basic,35,6.3,Female,73,Otolaryngologist,Reconstruction,Paraplatin,Carboplatin,yes,92028,95239,0,NO,no,61162,500,1,10,NO,NO,Rejected
+Basic,63,6.5,Female,44,Urologists,Radical cystectomy and lymph node dissection,Docetaxel,,No,68487,65846,14,NA,NA,83783,250,1,28,NO,NO,Accepted
+Basic,40,5.8,Female,37,Otolaryngologist,Reconstruction,Cytoxan,Cyclophosphamide,yes,60655,25709,15,NO,no,79215,775,1,12,NO,NO,Rejected
+Basic,40,6.6,Male,50,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Avastin,Bevacizumab,No,68879,65602,7,YES,no,59842,600,3,28,YES,NO,Accepted
+Basic,24,5.7,Male,45,Medical oncologist,Segmentectomy,Avastin,Bevacizumab,No,75660,48082,17,YES,no,85889,100,1,20,YES,YES,Rejected
+Basic,35,6.3,Female,87,Pathologist,Tracheostomy,Adriamycin,Doxorubicin,yes,85394,51649,16,NO,yes,59367,140,2,21,NO,NO,Rejected
+Gold,34,6.3,Male,28,Cardiac surgeon,Heart transplant,Rivaroxaban,Xarelto,yes,60244,56396,2,YES,yes,83480,25,3,5,NO,NO,Rejected
+Basic,31,6.5,Male,86,Cardiac surgeon,Heart transplant,Quinapril,Accupril,No,93022,33428,14,NA,NA,65684,125,3,8,YES,NO,Rejected
+Platinum,25,6.6,Male,83,Non-invasive cardiologist,Truncus Repair,Nadolol,Corgard,yes,61477,37015,9,NO,NA,73828,10,2,5,YES,NO,Rejected
+Platinum,53,6.5,Male,55,Otolaryngologist,Neck dissection,Cerubidine,Daunorubicin,yes,92837,82744,7,NO,yes,59368,125,2,14,NO,NO,Rejected
+Gold,38,6.5,Female,55,Medical oncologist,Glossectomy,Camptosar,Irinotecan generic,No,90518,51945,13,YES,no,64332,300,3,12,NO,NO,Rejected
+Gold,18,6.1,Female,41,Radiation oncologist,Urinary diversion,Cytoxan,Cyclophosphamide,No,60384,41507,7,YES,no,68159,140,2,12,NO,YES,Partially Accepted
+Gold,64,6.6,Male,77,Radiation oncologist,Radical cystectomy and lymph node dissection,Doxil,doxorubicin,No,92258,75095,17,NA,no,62209,1000,1,12,NO,NO,Partially Accepted
+Gold,0,1,Male(Child),56,Plastic surgeon,Radiofrequency ablation (RFA) or cryoablation,Aldara,Imiquimod,No,83738,77001,2,NO,yes,64778,850,1,12,NO,NO,Rejected
+Basic,30,5.8,Female,54,Cardiac surgeon,Valvular surgery,Valsartan,Diovan,No,61826,36748,14,NA,NA,74438,200,3,30,NO,NO,Rejected
+Basic,18,5.9,Male,53,Pulmonologist,Colostomy,Paraplatin,Carboplatin,No,60403,27929,16,NO,yes,79958,140,1,12,YES,YES,Rejected
+Basic,56,6.1,Female,77,Radiologist,Partial nephrectomy,Avastin,Bevacizumab,No,83041,66727,4,NO,yes,82091,850,3,8,NO,NO,Rejected
+Gold,47,6.2,Male,80,Pathologist,Tracheostomy,Camptosar,Irinotecan generic,yes,85737,74009,16,NO,yes,97281,500,2,7,YES,YES,Rejected
+Basic,65,5.9,Male,72,Urologists,Radical cystectomy and lymph node dissection,Avastin,Bevacizumab,No,63827,49277,1,NA,no,93330,250,3,20,YES,NO,Partially Accepted
+Platinum,22,6,Female,63,Neuro-oncologists,Colostomy,Zykadia,Ceritinib,No,58987,94205,6,NA,no,50497,160,1,21,YES,YES,Rejected
+Gold,46,6.4,Female,74,Pathologist,Tracheostomy,Cerubidine,Daunorubicin,yes,60552,88335,11,NO,yes,88153,40,2,7,NO,NO,Rejected
+Platinum,25,5.9,Male,80,Thoracic surgeon,Radical cystectomy and lymph node dissection,Abraxane,Paclitaxel,yes,81410,58452,8,YES,yes,64103,20,2,21,NO,NO,Rejected
+Platinum,48,5.8,Male,61,Cardiologist,Surgical Aortic Valve Replacement (SAVR),Isosorbide mononitrate,Imdur,No,83531,91033,13,NO,NA,99080,125,1,30,YES,NO,Accepted
+Gold,79,6.3,Female,36,Medical oncologist,Segmentectomy,DaunoXome,Daunorubicin,No,64577,81909,3,YES,no,91731,600,3,12,YES,NO,Accepted
+Gold,54,6.1,Female,44,Dermatologist,Melanoma,Avastin,Bevacizumab,No,89140,75744,7,NA,no,97126,800,3,28,NO,NO,Partially Accepted
+Gold,20,6,Male,87,Dermatologist,Melanoma,Abraxane,Paclitaxel,No,58986,50189,13,NA,no,70737,750,3,21,NO,YES,Accepted
+Platinum,19,5.3,Female,80,Neurosurgeons,craniotomy,Avastin,Bevacizumab,No,68410,79889,8,NA,no,78456,12.5,2,21,NO,NO,Accepted
+Basic,25,6.1,Male,30,Oncologist,Micrographic surgery,Camptosar,Irinotecan generic,No,87802,33199,2,NA,yes,73267,12.5,3,21,NO,NO,Rejected
+Basic,43,5.9,Male,30,Maxillofacial surgeon,Reconstruction,Odomzo,Sonidegib,No,62639,37618,9,NO,no,78667,125,2,14,NO,NO,Rejected
+Basic,48,6.3,Female,83,Non-invasive cardiologist,Surgical Aortic Valve Replacement (SAVR),Sacubitril/valsartan,Entresto,yes,55100,51047,13,YES,NA,95718,40,2,5,NO,YES,Rejected
+Basic,40,6.5,Male,84,Non-invasive cardiologist,ASD Repair,Atorvastatin,Lipitor,yes,67302,72432,11,YES,NA,93292,160,2,14,NO,NO,Rejected
+Basic,21,5.8,Male,70,Urologists,Urinary diversion,Ellence,Epirubicin,No,90688,49918,6,NA,NA,58312,850,2,7,YES,YES,Rejected
+Basic,34,6.2,Male,37,Plastic surgeon,Colostomy,DaunoXome,Daunorubicin,No,55043,62049,1,NO,yes,92336,150,3,7,NO,YES,Partially Accepted
+Basic,7,3.2,Male(Child),74,Neuro-oncologists,stereotaxis,Panitumumab,Vectibix,No,66405,54106,1,NA,no,81302,20,4,14,NO,YES,Rejected
+Basic,49,5.9,Male,83,Electrophysiologist,BDG/ Hemi-Fontan,Nifedipine,"Adalat, Procardia",No,61329,75349,12,NO,NA,55856,875,1,12,NO,NO,Accepted
+Gold,31,6.6,Male,81,Pulmonologist,Laryngectomy,Opdivo,Nivolumab,No,83130,79700,3,NA,yes,52913,50,2,21,NO,NO,Rejected
+Gold,35,6.3,Female,50,Cardiac surgeon,Arrhythimia surgery,Dabigatran,Pradaxa,yes,89771,30985,16,YES,yes,97000,160,1,21,YES,NO,Rejected
+Gold,28,6.4,Female,29,Cardiac surgeon,Left ventricular remodeling/ surgical ventricular restoration,Trandolapril,Mavik,No,91979,51331,16,NA,NA,98800,600,2,5,NO,YES,Rejected
+Platinum,33,6.1,Female,78,Radiologist,Partial nephrectomy,Taxol,Paclitaxel,No,81255,62130,17,NO,yes,58801,20,1,14,NO,YES,Rejected
+Basic,31,6.6,Male,55,Urologists,Urinary diversion,Avastin,Bevacizumab,No,69785,64481,17,NA,NA,62353,1000,1,20,NO,NO,Accepted
+Basic,45,6,Female,45,Dermatologist,Melanoma,Cytoxan,Cyclophosphamide,No,69084,32542,7,NA,no,74476,40,3,21,NO,NO,Rejected
+Basic,45,6.2,Male,45,Otolaryngologist,Neck dissection,Abraxane,Paclitaxel,yes,92347,77837,12,NO,no,97564,400,1,12,YES,NO,Rejected
+Basic,77,6,Male,53,Surgical oncologist,A wedge resection,Zykadia,Ceritinib,No,82430,56372,6,NA,yes,55908,150,1,28,NO,YES,Rejected
+Basic,63,6.6,Female,66,Dermatologist,Melanoma,Gemzar,Gemcitabine,No,91429,93128,10,NA,no,90201,800,3,30,NO,NO,Accepted
+Basic,53,6.1,Male,43,Dermatologist,Melanoma,oncovin,VINCRISTINE,No,70744,42470,13,NA,no,57501,19,1,14,YES,YES,Rejected
+Basic,0,1,Male(Child),77,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Eloxatin,Oxaliplatin generic,No,93610,65743,10,NA,no,92200,19,4,20,NO,NO,Rejected
+Basic,28,6.4,Male,33,Neuro-oncologists,Radiofrequency ablation (RFA) or cryoablation,Adriamycin,Doxorubicin,No,78911,74876,8,NA,no,98322,125,1,14,NO,NO,Accepted
+Basic,53,6.4,Male,57,Maxillofacial surgeon,Reconstruction,Avastin,Bevacizumab,No,89625,37493,16,NO,no,77456,160,3,30,YES,NO,Rejected
+Gold,65,6.1,Male,42,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Zykadia,Ceritinib,No,76828,43025,2,NO,yes,83231,750,1,10,NO,YES,Rejected
+Gold,42,6,Female,68,Maxillofacial surgeon,Reconstruction,Thioplex,Thiotepa,No,61929,53649,8,NO,no,83427,125,1,8,NO,NO,Partially Accepted
+Gold,45,5.9,Female,83,Surgical oncologist,A wedge resection,Rozlytrek,Entrectinib,No,59957,46329,15,NA,yes,97173,800,2,14,NO,YES,Rejected
+Gold,40,6.2,Male,80,Neuro-oncologists,Radiofrequency ablation (RFA) or cryoablation,Eloxatin,Oxaliplatin generic,No,58448,26191,12,NA,no,61534,25,3,10,YES,NO,Rejected
+Gold,50,6.5,Male,63,Otolaryngologist,Neck dissection,Rozlytrek,Entrectinib,yes,70875,36350,8,NO,yes,57380,775,1,14,NO,NO,Rejected
+Gold,55,6.3,Female,55,Surgical oncologist,Radical cystectomy and lymph node dissection,Avastin,Bevacizumab,No,88232,75052,15,NA,yes,94197,400,2,42,NO,NO,Rejected
+Gold,37,6.1,Female,54,Medical oncologist,Glossectomy,Thioplex,Thiotepa,No,84108,90904,11,YES,no,57624,100,1,7,YES,NO,Accepted
+Platinum,24,5.8,Male,83,Non-invasive cardiologist,Norwood,Propranolol,Inderal,yes,56611,66565,10,NO,NA,87410,40,4,10,YES,NO,Rejected
+Basic,1,1,Male(Child),40,Plastic surgeon,Colostomy,Abraxane,Paclitaxel,No,58046,50080,10,NO,yes,60855,250,2,5,NO,YES,Partially Accepted
+Basic,46,6.5,Male,30,Neuro-oncologists,stereotaxis,Camptosar,Irinotecan generic,No,55270,48708,11,NA,no,84181,100,1,30,YES,NO,Accepted
+Basic,15,5.3,Female,36,Dermatologist,Melanoma,Panitumumab,Vectibix,No,80932,60351,5,NA,no,61202,775,4,20,NO,NO,Rejected
+Basic,44,5.9,Female,63,Non-invasive cardiologist,ASO,Irbesartan,Avapro,yes,75047,40924,14,YES,NA,76121,775,2,14,NO,NO,Rejected
+Basic,68,6.6,Male,80,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Rozlytrek,Entrectinib,No,92382,43337,7,YES,no,60251,10,2,14,NO,YES,Rejected
+Basic,31,6,Male,64,Urologists,Laparoscopic and robotic surgery (minimally invasive surgery),Taxol,Paclitaxel,No,66912,33897,10,NA,NA,82543,10,3,28,NO,NO,Rejected
+Basic,49,6.5,Male,44,Neurosurgeons,craniotomy,Panitumumab,Vectibix,No,82764,65302,4,NA,no,63012,12.5,1,7,NO,NO,Partially Accepted
+Basic,48,6.3,Male,31,Oncologist,Lobectomy,Paraplatin,Carboplatin,No,84295,39985,16,NA,yes,99101,600,1,30,NO,NO,Rejected
+Platinum,73,6.4,Male,59,Maxillofacial surgeon,Reconstruction,Mexate,Methotrexate,No,70478,81568,17,NO,no,95970,250,3,42,NO,NO,Accepted
+Platinum,38,6.2,Male,41,Cardiologist,TOF Repair,Nifedipine,"Adalat, Procardia",No,92810,71821,17,NA,no,51012,250,2,14,NO,NO,Partially Accepted
+Gold,65,6.3,Male,33,Cardiologist,Truncus Repair,Lovastatin,Mevacor,No,79849,52376,8,YES,no,67926,400,1,21,NO,YES,Rejected
+Gold,37,6.4,Female,59,Neurosurgeons,craniotomy,Opdivo,Nivolumab,No,60874,68611,13,NA,no,70256,150,2,20,NO,YES,Accepted
+Gold,65,6.5,Female,77,Dermatologist,Melanoma,Mexate,Methotrexate,No,88179,38694,14,NA,no,66835,300,4,12,YES,NO,Rejected
+Gold,39,6,Male,29,Vascular surgeon,Radical cystectomy and lymph node dissection,Panitumumab,Vectibix,No,76580,62943,17,YES,no,56736,875,2,20,YES,NO,Partially Accepted
+Gold,68,6.3,Male,77,Cardiologist,Cardiomyoplasty,Carvedilol,"Coreg, Coreg CR",No,66627,28456,7,NA,NA,55165,25,2,10,YES,YES,Rejected
+Basic,11,4,Male(Child),32,Cardiac surgeon,Valvular surgery,Azilsartan,Edarbi,No,78900,82466,5,NA,NA,51622,20,2,14,NO,YES,Accepted
+Gold,32,5.8,Male,73,Electrophysiologist,Cardiomyoplasty,Atorvastatin,Lipitor,yes,71656,66989,16,NO,NA,58124,12.5,2,14,NO,NO,Rejected
+Gold,62,5.9,Female,88,Pulmonologist,Laryngectomy,Doxil,doxorubicin,No,93905,29017,14,NO,yes,97122,775,2,14,YES,YES,Rejected
+Basic,65,5.8,Female,32,Cardiac surgeon,ortic Surgery,Propranolol,Inderal,No,78443,91001,2,NA,NA,83828,90,2,30,NO,YES,Accepted
+Gold,0,1,Female(Child),69,Cardiologist,Transcatheter Aortic Valve Replacement (TAVR),Pitavastatin,Livalo,No,67568,95008,0,NA,no,72520,300,1,30,NO,NO,Accepted
+Gold,55,6.6,Male,86,Otolaryngologist,Reconstruction,Eloxatin,Oxaliplatin generic,yes,67623,82757,4,NO,no,70655,100,2,14,YES,NO,Rejected
+Gold,50,6.3,Male,44,Cardiac surgeon,Left ventricular remodeling/ surgical ventricular restoration,Acebutolol,Sectral,No,89770,47706,14,NA,NA,76905,30,2,8,NO,YES,Rejected
+Gold,65,5.8,Male,64,Maxillofacial surgeon,Reconstruction,Panitumumab,Vectibix,No,70947,39642,7,NO,no,82849,125,3,5,YES,YES,Rejected
+Gold,55,6.3,Male,74,Neurosurgeons,craniotomy,Ellence,Epirubicin,No,58802,98322,10,NA,no,86632,19,2,42,YES,NO,Accepted
+Gold,35,6.6,Male,74,Cardiologist,ASO,Chlorthalidone,Hygroton,No,94057,93404,8,YES,NA,52225,50,2,21,YES,NO,Partially Accepted
+Gold,24,6.5,Male,52,Radiologist,Radical nephrectomy,Cerubidine,Daunorubicin,yes,65517,87264,13,NO,yes,91118,250,2,42,NO,YES,Accepted
+Basic,39,5.7,Male,73,Surgical oncologist,Transoral robotic surgery and transoral laser microsurgery,DaunoXome,Daunorubicin,No,79549,91471,7,NA,yes,57672,30,3,20,YES,YES,Partially Accepted
+Basic,0,1,Male(Child),73,Urologists,Radical cystectomy and lymph node dissection,Docetaxel,,No,93274,28784,11,NA,NA,86184,500,2,30,YES,NO,Rejected
+Basic,44,5.9,Male,41,Plastic surgeon,Colostomy,Docetaxel,,No,70949,92829,7,NO,yes,59093,775,2,8,YES,NO,Partially Accepted
+Basic,67,5.9,Female,40,Otolaryngologist,Neck dissection,oncovin,VINCRISTINE,yes,57268,96590,15,NO,no,66238,1000,2,8,YES,YES,Accepted
+Basic,66,6.1,Male,61,Maxillofacial surgeon,Reconstruction,Doxil,doxorubicin,No,76749,70382,3,NO,no,82445,10,4,14,NO,NO,Accepted
+Basic,16,5.1,Male,60,Non-invasive cardiologist,VSD Repair,Candesartan,Atacand,yes,61073,91262,0,YES,NA,57497,160,2,30,NO,YES,Partially Accepted
+Basic,35,5.8,Female,70,Gastroenterologist,Gastrostomy tube,Abraxane,Paclitaxel,No,72391,95173,12,YES,no,84422,800,4,20,NO,YES,Accepted
+Basic,23,6.1,Male,52,Oncologist,Mandibulectomy,Zykadia,Ceritinib,No,88146,96075,7,NA,yes,55842,100,2,14,YES,YES,Partially Accepted
+Basic,43,6,Male,29,Cardiac surgeon,Left ventricular assist device (LVAD),Ramipril,Altace,No,70867,77678,14,NA,NA,90967,250,2,10,NO,NO,Accepted
+Basic,62,5.8,Male,59,Pathologist,Tracheostomy,Doxil,doxorubicin,yes,68567,27582,13,NO,yes,97600,140,3,14,NO,YES,Rejected
+Gold,44,5.8,Female,84,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Doxil,doxorubicin,No,76815,39933,7,YES,no,82643,850,4,42,NO,YES,Rejected
+Gold,55,5.7,Female,33,Surgical oncologist,Mandibulectomy,Docetaxel,,No,82347,73168,7,NA,yes,76379,600,2,14,YES,YES,Rejected
+Gold,39,5.9,Male,87,Oncologist,Mandibulectomy,Odomzo,Sonidegib,No,64289,60669,10,NA,yes,81794,250,3,20,NO,NO,Accepted
+Gold,25,5.7,Male,75,Medical oncologist,Glossectomy,oncovin,VINCRISTINE,No,89965,72456,6,YES,no,67260,140,1,20,YES,YES,Rejected
+Gold,28,6,Male,66,Medical oncologist,Segmentectomy,Aldara,Imiquimod,No,86533,76211,3,YES,no,93568,125,3,30,YES,NO,Rejected
+Basic,25,5.9,Male,45,Surgical oncologist,Transoral robotic surgery and transoral laser microsurgery,Opdivo,Nivolumab,No,83090,65344,2,NA,yes,53293,12.5,2,42,NO,NO,Rejected
+Basic,46,6,Male,45,Otolaryngologist,Neck dissection,Aldara,Imiquimod,yes,73086,42511,10,NO,yes,62925,25,4,28,NO,NO,Rejected
+Basic,67,5.9,Male,79,Pulmonologist,Colostomy,Ellence,Epirubicin,No,77005,28617,17,NO,yes,81878,90,2,8,NO,YES,Accepted
+Gold,57,5.9,Female,32,Neuro-oncologists,Radiofrequency ablation (RFA) or cryoablation,Rozlytrek,Entrectinib,No,83094,50393,3,NA,no,77719,140,3,12,YES,YES,Rejected
+Basic,40,6.6,Male,64,Neurosurgeons,craniotomy,Avastin,Bevacizumab,No,84443,62245,15,NA,no,77672,150,2,5,NO,NO,Accepted
+Basic,41,6.2,Male,62,Otolaryngologist,Reconstruction,Cerubidine,Daunorubicin,yes,69291,39655,3,NO,no,79321,30,2,10,NO,YES,Rejected
+Basic,60,5.8,Male,42,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Adriamycin,Doxorubicin,No,91370,89029,15,YES,no,87967,125,2,20,NO,YES,Partially Accepted
+Basic,51,6,Male,41,Plastic surgeon,Radiofrequency ablation (RFA) or cryoablation,oncovin,VINCRISTINE,No,93048,58017,6,NO,yes,64845,200,1,12,YES,YES,Rejected
+Basic,28,6.1,Female,77,Neuro-oncologists,stereotaxis,Odomzo,Sonidegib,No,70534,90160,15,NA,no,98815,50,1,14,NO,NO,Accepted
+Basic,23,5.8,Male,65,Pulmonologist,Colostomy,Thioplex,Thiotepa,No,65757,47409,3,NO,yes,92126,250,2,21,YES,YES,Rejected
+Basic,23,6.2,Male,43,Pulmonologist,Colostomy,Docetaxel,,No,57375,61241,11,NO,yes,89631,750,2,7,YES,NO,Accepted
+Basic,29,6,Male,33,Otolaryngologist,Reconstruction,Ellence,Epirubicin,No,86896,58717,4,NO,no,90876,25,2,28,NO,YES,Rejected
+Basic,35,6,Female,51,Otolaryngologist,Neck dissection,Thioplex,Thiotepa,yes,92277,95748,17,NO,yes,98705,19,1,30,YES,NO,Accepted
+Gold,12,4.6,Female(Child),68,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Odomzo,Sonidegib,No,58701,72905,11,NA,yes,61923,750,4,14,NO,YES,Accepted
+Gold,0,1,Male(Child),81,Neuro-oncologists,Radiofrequency ablation (RFA) or cryoablation,Aldara,Imiquimod,No,86735,35658,4,NA,no,76401,200,3,30,NO,NO,Rejected
+Gold,10,4.4,Male(Child),43,Non-invasive cardiologist,Surgical Aortic Valve Replacement (SAVR),Ramipril,Altace,yes,65081,75167,8,YES,NA,54661,90,4,20,YES,NO,Partially Accepted
+Gold,26,6.4,Female,48,Otolaryngologist,Reconstruction,Gemzar,Gemcitabine,yes,80203,55895,9,NO,no,60211,50,3,12,YES,YES,Rejected
+Gold,60,6.2,Male,39,Interventional cardiologist,Radiofrequency Ablation/ Catheter Ablation,Candesartan,Atacand,No,68832,36462,11,YES,NA,79618,200,3,14,NO,NO,Rejected
+Platinum,69,6.5,Male,44,Neuro-oncologists,stereotaxis,Thioplex,Thiotepa,No,60512,51365,11,NA,no,61072,875,1,7,NO,YES,Accepted
+Platinum,85,6.1,Female,89,Otolaryngologist,Neck dissection,Doxil,doxorubicin,yes,65346,82779,13,NO,no,64783,250,1,7,YES,YES,Partially Accepted
+Basic,63,5.5,Male,68,Otolaryngologist,Reconstruction,Doxil,doxorubicin,yes,63730,72974,12,NO,no,52041,850,2,42,YES,YES,Partially Accepted
+Platinum,42,5.4,Male,29,Urologists,Urinary diversion,Cerubidine,Daunorubicin,No,91151,38815,15,NA,NA,87590,850,2,20,YES,YES,Rejected
+Basic,42,5.5,Male,38,Electrophysiologist,Truncus Repair,Verapamil,"Calan, Verelan",yes,55279,40433,14,NO,NA,63754,560,3,28,NO,YES,Accepted
+Basic,19,5.9,Female,29,Surgical oncologist,Transoral robotic surgery and transoral laser microsurgery,Avastin,Bevacizumab,No,59252,40529,0,NA,yes,68419,20,4,42,NO,NO,Rejected
+Basic,55,5.7,Male,61,Neurosurgeons,craniotomy,Zykadia,Ceritinib,No,66087,67382,9,NA,no,59956,150,3,8,NO,YES,Partially Accepted
+Basic,33,5.8,Female,67,Radiologist,Radical nephrectomy,Abraxane,Paclitaxel,No,63983,42934,17,NO,yes,90681,775,2,8,NO,YES,Accepted
+Basic,34,5,Male,82,Oncologist,Micrographic surgery,Avastin,Bevacizumab,No,58362,66171,11,NA,yes,76277,800,3,8,YES,NO,Partially Accepted
+Basic,35,5.5,Female,84,Urologists,Radical cystectomy and lymph node dissection,Zykadia,Ceritinib,No,60129,64742,10,NA,NA,58814,1000,1,14,YES,NO,Partially Accepted
+Basic,51,5.1,Male,62,Oncologist,Mandibulectomy,Aldara,Imiquimod,No,66763,88250,13,NA,yes,95569,25,1,28,YES,YES,Partially Accepted
+Basic,65,5.6,Male,29,Surgical oncologist,Radical cystectomy and lymph node dissection,Doxil,doxorubicin,No,73213,69319,1,NA,yes,71239,200,2,5,YES,YES,Partially Accepted
+Gold,24,5.5,Female,66,Otolaryngologist,Reconstruction,oncovin,VINCRISTINE,yes,55883,88646,12,NO,no,59282,250,2,7,YES,NO,Accepted
+Gold,35,4.9,Female,35,Neuro-oncologists,Colostomy,Paraplatin,Carboplatin,No,77618,60913,1,NA,no,95255,250,1,7,NO,YES,Rejected
+Gold,41,5.4,Male,55,Radiation oncologist,Radical cystectomy and lymph node dissection,Docetaxel,,No,85591,48432,11,NA,yes,61154,100,2,30,NO,YES,Rejected
+Gold,44,5.4,Male,55,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Rozlytrek,Entrectinib,No,65528,78528,16,NO,yes,94983,90,2,28,NO,NO,Partially Accepted
+Gold,24,5.5,Male,68,Plastic surgeon,Tracheostomy,Cerubidine,Daunorubicin,No,64883,42015,9,NO,yes,62864,500,3,14,NO,YES,Rejected
+Platinum,32,5.1,Male,37,Neurosurgeons,craniotomy,Adriamycin,Doxorubicin,No,60090,89736,8,NA,no,89589,125,4,14,NO,NO,Partially Accepted
+Basic,5,3,Male(Child),47,Urologists,Radical cystectomy and lymph node dissection,Panitumumab,Vectibix,No,62665,65522,5,NA,no,91364,200,3,12,NO,NO,Accepted
+Basic,57,5.4,Male,77,Maxillofacial surgeon,Reconstruction,Cerubidine,Daunorubicin,No,62406,66436,1,NO,no,74747,12.5,2,14,NO,YES,Accepted
+Platinum,61,5.3,Female,72,Cardiologist,ASO,Fluvastatin,Lescol,No,67168,82662,6,YES,no,70472,12.5,2,8,NO,NO,Accepted
+Basic,45,4.9,Female,50,Otolaryngologist,Reconstruction,oncovin,VINCRISTINE,yes,57468,26376,8,NO,no,66357,25,3,5,YES,NO,Rejected
+Basic,58,5.5,Male,88,Medical oncologist,Glossectomy,Eloxatin,Oxaliplatin generic,No,87198,84511,9,YES,no,80422,560,2,8,YES,YES,Partially Accepted
+Gold,0,1,Female(Child),58,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Aldara,Imiquimod,No,87587,50273,17,NO,yes,97341,560,3,12,NO,NO,Rejected
+Basic,12,4,Male(Child),35,Cardiac surgeon,Myectomy/ myotomy,Atenolol,Tenormin,No,77940,54952,13,NA,NA,94913,250,2,7,NO,YES,Rejected
+Basic,52,5.9,Male,79,Urologists,Radical cystectomy and lymph node dissection,Gemzar,Gemcitabine,No,65492,36733,3,NA,NA,89337,6.25,1,14,YES,NO,Rejected
+Basic,66,5.1,Male,32,Radiologist,Partial nephrectomy,Mexate,Methotrexate,No,59021,59931,11,NO,yes,86510,6.25,2,14,NO,NO,Accepted
+Gold,39,5.4,Male,40,Thoracic surgeon,Sentinel lymph node biopsy (SLNB),Doxil,doxorubicin,yes,72247,54824,12,YES,yes,64636,775,1,20,YES,NO,Rejected
+Gold,15,4.9,Male,65,Medical oncologist,Segmentectomy,Rozlytrek,Entrectinib,No,68155,74567,10,YES,no,54778,250,3,42,YES,NO,Partially Accepted
+Gold,46,5.2,Male,90,Pulmonologist,Laryngectomy,Ellence,Epirubicin,No,71426,52931,5,NA,yes,65959,160,3,7,NO,YES,Rejected
+Gold,65,5.2,Male,29,Plastic surgeon,Colostomy,Odomzo,Sonidegib,No,91498,65849,6,NO,yes,83354,90,2,14,NO,YES,Rejected
+Basic,11,4.8,Male(Child),87,Oncologist,Mandibulectomy,Cerubidine,Daunorubicin,No,93145,68369,6,NA,no,53841,30,2,20,NO,NO,Rejected
+Basic,11,4,Male(Child),85,Cardiologist,BDG/ Hemi-Fontan,Bumetanide,Bumex,No,66867,65769,7,YES,NA,79392,25,1,30,NO,NO,Partially Accepted
+Basic,61,5.6,Male,70,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Gemzar,Gemcitabine,No,61084,28630,2,YES,no,92424,12.5,3,12,NO,YES,Rejected
+Basic,69,5.3,Male,63,Cardiac surgeon,Angioplasty/ Percutaneous Coronary Interventions [PCI],Candesartan,Atacand,No,58197,88909,7,NA,NA,52751,40,2,8,NO,NO,Partially Accepted
+Platinum,53,5,Female,28,Surgical oncologist,A wedge resection,Thioplex,Thiotepa,No,70400,40884,10,NA,yes,63415,1000,3,10,YES,NO,Rejected
+Basic,53,5.2,Female,68,Urologists,Urinary diversion,Taxol,Paclitaxel,No,64185,56711,6,NA,NA,80444,150,2,21,YES,NO,Accepted
+Basic,64,5.2,Male,34,Oncologist,Micrographic surgery,Cerubidine,Daunorubicin,No,57710,46852,16,NA,yes,86610,250,3,20,YES,YES,Accepted
+Basic,35,5,Female,79,Electrophysiologist,ASO,Bumetanide,Bumex,yes,62724,92780,9,YES,yes,80739,12.5,2,30,NO,NO,Accepted
+Basic,45,5.5,Male,31,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Docetaxel,,No,90771,46843,4,YES,yes,80515,100,2,14,YES,YES,Rejected
+Basic,60,5.5,Male,79,Pathologist,Tracheostomy,Cerubidine,Daunorubicin,yes,73936,87973,11,NO,yes,88898,400,2,14,YES,YES,Accepted
+Basic,60,5.4,Male,61,Cardiologist,Minimally Invasive Heart Surgery,Spironolactone,Aldactone,No,83830,32978,7,NO,NA,72890,600,4,30,YES,NO,Rejected
+Gold,71,5.3,Female,89,Otolaryngologist,Reconstruction,Thioplex,Thiotepa,yes,77122,75828,13,NO,no,84432,20,2,10,YES,NO,Accepted
+Gold,41,5.6,Male,85,Pathologist,Tracheostomy,Camptosar,Irinotecan generic,yes,68296,65553,17,NO,yes,83034,125,1,5,YES,NO,Accepted
+Gold,69,5.3,Male,30,Neuro-oncologists,Colostomy,Docetaxel,,No,76204,45848,15,NA,no,86469,100,1,30,NO,YES,Rejected
+Gold,38,5.2,Male,57,Electrophysiologist,Transcatheter Aortic Valve Replacement (TAVR),Spironolactone,Aldactone,yes,93232,81339,3,YES,yes,82823,6.25,2,30,NO,NO,Rejected
+Gold,32,4.8,Male,59,Radiologist,Partial nephrectomy,Paraplatin,Carboplatin,yes,55015,89591,3,NO,yes,56180,250,2,20,NO,NO,Accepted
+Gold,70,5.2,Female,41,Thoracic surgeon,Radical cystectomy and lymph node dissection,Taxol,Paclitaxel,yes,59299,33368,11,YES,yes,74314,10,2,28,NO,YES,Rejected
+Gold,7,3,Female(Child),72,Surgical oncologist,A wedge resection,Panitumumab,Vectibix,No,92681,43621,8,NA,yes,61977,875,1,5,YES,NO,Rejected
+Gold,34,5.4,Male,65,Oncologist,Micrographic surgery,Odomzo,Sonidegib,No,71453,91374,13,NA,yes,68362,50,4,21,YES,YES,Partially Accepted
+Basic,61,4.8,Male,85,Maxillofacial surgeon,Reconstruction,Zykadia,Ceritinib,No,75735,63751,5,NO,no,66598,19,3,30,NO,NO,Partially Accepted
+Platinum,45,5,Male,67,Interventional cardiologist,Norwood,Enalapril,Vasotec,yes,83989,46369,2,YES,NA,91434,100,3,5,NO,NO,Rejected
+Gold,0,1,Male(Child),43,Cardiologist,Atherectomy,Indapamide,Lozol,No,68349,31025,9,NO,NA,94248,250,4,21,NO,NO,Rejected
+Basic,0,1,Male(Child),81,Plastic surgeon,Colostomy,Paraplatin,Carboplatin,No,79937,38743,4,NO,yes,89705,600,1,21,YES,YES,Rejected
+Basic,54,5.3,Female,59,Neuro-oncologists,stereotaxis,Abraxane,Paclitaxel,No,91992,51677,5,NA,no,68300,140,2,12,NO,NO,Rejected
+Basic,43,5.1,Male,59,Breast surgeon,Axillary lymph node dissection (ALND),Camptosar,Irinotecan generic,No,90803,59109,4,NA,no,78608,19,3,10,NO,YES,Rejected
+Basic,51,5.5,Male,59,Pathologist,Tracheostomy,Taxol,Paclitaxel,yes,59350,70429,3,NO,yes,54844,90,1,14,YES,NO,Accepted
+Gold,27,5,Female,66,Medical oncologist,Glossectomy,Taxol,Paclitaxel,No,60386,83956,15,YES,no,88179,30,1,14,NO,YES,Accepted
+Gold,61,4.8,Male,66,Cardiac surgeon,Angioplasty/ Percutaneous Coronary Interventions [PCI],Bisoprolol,Zebeta,No,87933,61320,11,NA,NA,87711,500,3,14,YES,YES,Partially Accepted
+Gold,0,1,Female(Child),82,Maxillofacial surgeon,Reconstruction,Paraplatin,Carboplatin,No,87546,58924,17,NO,no,75676,50,3,14,NO,YES,Partially Accepted
+Gold,64,4.8,Male,46,Non-invasive cardiologist,CAVC Repair,Eprosartan,Teveten,yes,87439,39874,4,YES,NA,85925,400,2,5,YES,NO,Rejected
+Basic,47,5.3,Female,75,Surgical oncologist,A wedge resection,Camptosar,Irinotecan generic,No,67435,98090,15,NA,yes,85678,10,2,28,NO,YES,Accepted
+Platinum,30,6.3,Male,54,Medical oncologist,Segmentectomy,Adriamycin,Doxorubicin,No,59961,75298,2,YES,no,83181,250,2,42,NO,NO,Accepted
+Platinum,70,5.9,Female,49,Neuro-oncologists,Colostomy,Odomzo,Sonidegib,No,85397,93921,14,NA,no,87934,775,2,20,NO,YES,Accepted
+Basic,31,6.1,Male,60,Breast surgeon,Sentinel lymph node biopsy (SLNB),Zykadia,Ceritinib,No,79824,64046,12,NA,no,90754,125,3,14,NO,NO,Accepted
+Basic,21,5.2,Male,86,Pathologist,Tracheostomy,Avastin,Bevacizumab,yes,56246,26010,10,NO,yes,66094,300,3,8,NO,YES,Rejected
+Platinum,19,5.3,Female,89,Urologists,Urinary diversion,Odomzo,Sonidegib,No,85152,85311,6,NA,NA,83860,400,2,42,YES,YES,Partially Accepted
+Basic,62,5.3,Female,57,Oncologist,Laparoscopic surgery,Avastin,Bevacizumab,No,56902,98283,15,NA,yes,77613,850,2,20,NO,NO,Accepted
+Basic,2,2,Male(Child),74,Pathologist,Tracheostomy,Taxol,Paclitaxel,yes,78795,78489,15,NO,yes,76999,50,1,21,NO,YES,Partially Accepted
+Basic,0,1,Male(Child),74,Electrophysiologist,Radiofrequency Ablation/ Catheter Ablation,Ezetimibe,Zetia,yes,66513,40123,4,NO,NA,90869,300,1,30,NO,NO,Rejected
+Basic,32,5.1,Male,45,Plastic surgeon,Colostomy,Doxil,doxorubicin,No,74589,77701,13,NO,yes,55207,800,1,5,NO,NO,Partially Accepted
+Basic,64,6.1,Female,30,Oncologist,Lobectomy,oncovin,VINCRISTINE,No,70455,44777,10,NA,yes,99216,30,3,30,YES,NO,Rejected
+Basic,57,5.2,Female,56,Urologists,Urinary diversion,Cytoxan,Cyclophosphamide,No,67083,69941,17,NA,NA,65852,90,2,20,YES,NO,Partially Accepted
+Platinum,45,5.9,Female,82,Neuro-oncologists,stereotaxis,Adriamycin,Doxorubicin,No,71072,62139,7,NA,no,80396,160,3,21,NO,YES,Accepted
+Platinum,37,5.9,Male,49,Otolaryngologist,Reconstruction,Camptosar,Irinotecan generic,No,89790,94916,11,NO,no,63903,160,3,28,NO,YES,Partially Accepted
+Gold,59,5.2,Male,85,Maxillofacial surgeon,Reconstruction,Cerubidine,Daunorubicin,No,59477,81502,9,NO,no,90592,250,2,12,NO,NO,Accepted
+Gold,45,5.9,Female,60,Radiologist,Radical nephrectomy,Gemzar,Gemcitabine,yes,69874,88535,2,NO,yes,73224,600,2,7,YES,NO,Accepted
+Gold,57,5.6,Male,61,Maxillofacial surgeon,Reconstruction,DaunoXome,Daunorubicin,No,59065,96599,14,NO,no,55297,40,2,12,NO,NO,Partially Accepted
+Platinum,50,5.3,Male,47,Electrophysiologist,ASO,Minoxidil,,yes,59243,95934,7,YES,yes,86979,50,3,20,YES,NO,Accepted
+Platinum,63,5.8,Male,72,Plastic surgeon,Radiofrequency ablation (RFA) or cryoablation,Cerubidine,Daunorubicin,No,80500,49770,1,NO,yes,79186,875,1,14,NO,NO,Rejected
+Basic,55,6,Female,34,Otolaryngologist,Reconstruction,Paraplatin,Carboplatin,yes,70278,49783,3,NO,no,82765,30,1,20,NO,YES,Rejected
+Platinum,0,1,Female(Child),80,Maxillofacial surgeon,Reconstruction,Taxol,Paclitaxel,No,66337,81978,2,NO,no,76806,125,3,5,NO,NO,Accepted
+Basic,0,1,Male(Child),78,Radiation oncologist,Axillary lymph node dissection (ALND),Abraxane,Paclitaxel,No,72520,49268,15,NA,yes,77447,50,2,30,YES,NO,Rejected
+Basic,48,5.1,Female,86,Neuro-oncologists,stereotaxis,DaunoXome,Daunorubicin,No,55776,56820,10,NA,no,68155,775,2,12,NO,NO,Accepted
+Gold,55,6,Male,51,Breast surgeon,Axillary lymph node dissection (ALND),Avastin,Bevacizumab,No,65375,83767,13,NA,no,64343,250,3,5,YES,NO,Partially Accepted
+Gold,55,6.2,Male,52,Oncologist,Mandibulectomy,Rozlytrek,Entrectinib,No,84047,95054,16,NA,yes,53446,1000,2,14,YES,YES,Partially Accepted
+Gold,57,6.1,Male,69,Thoracic surgeon,Radical cystectomy and lymph node dissection,Paraplatin,Carboplatin,yes,67816,73101,6,YES,yes,61459,6.25,1,20,NO,NO,Partially Accepted
+Basic,26,6.5,Male,50,Vascular surgeon,Radical cystectomy and lymph node dissection,Avastin,Bevacizumab,No,59827,80522,15,YES,yes,80244,875,2,20,NO,NO,Accepted
+Basic,35,6,Male,78,Otolaryngologist,Reconstruction,Abraxane,Paclitaxel,No,91519,81760,13,NO,no,95726,775,3,20,NO,NO,Rejected
+Basic,61,6.9,Male,79,Pulmonologist,Colostomy,Camptosar,Irinotecan generic,No,65935,83952,16,NO,yes,91996,160,1,20,YES,NO,Accepted
+Basic,47,6.1,Male,87,Urologists,Urinary diversion,Rozlytrek,Entrectinib,No,66623,42266,13,NA,NA,50066,850,1,8,YES,NO,Rejected
+Basic,41,6,Female,73,Electrophysiologist,Transcatheter Aortic Valve Replacement (TAVR),Ezetimibe/Simvastatin,Vytorin,yes,86488,85643,14,NO,NA,58222,1000,4,42,NO,NO,Partially Accepted
+Basic,44,5.8,Male,80,Neurosurgeons,craniotomy,DaunoXome,Daunorubicin,No,63646,54616,16,NA,no,69687,19,3,5,NO,NO,Rejected
+Platinum,43,5.1,Male,84,Oncologist,Lobectomy,Aldara,Imiquimod,No,71220,32773,10,NA,yes,64322,250,1,12,YES,NO,Rejected
+Gold,51,5.9,Male,85,Electrophysiologist,VSD Repair,Digoxin,Lanoxin,yes,70660,57384,11,NO,yes,52012,560,4,20,NO,YES,Rejected
+Gold,50,5.4,Male,29,Maxillofacial surgeon,Reconstruction,Eloxatin,Oxaliplatin generic,No,62551,30385,16,NO,no,99454,90,2,7,NO,YES,Rejected
+Gold,61,5.3,Male,88,Dermatologist,Melanoma,Camptosar,Irinotecan generic,No,92938,74721,3,NA,no,63541,300,3,14,YES,NO,Rejected
+Gold,57,4.8,Female,37,Plastic surgeon,Colostomy,Camptosar,Irinotecan generic,No,74161,64019,11,NO,yes,88092,250,2,14,YES,NO,Rejected
+Gold,44,5.1,Male,54,Neuro-oncologists,stereotaxis,Zykadia,Ceritinib,No,92523,43225,12,NA,no,72709,150,4,8,NO,YES,Rejected
+Gold,29,5.1,Female,84,Pathologist,Partial nephrectomy,Thioplex,Thiotepa,yes,75201,95904,5,NO,yes,88733,800,3,21,YES,NO,Accepted
+Platinum,46,5.4,Female,67,Maxillofacial surgeon,Reconstruction,Abraxane,Paclitaxel,No,61062,62001,1,NO,no,63189,300,1,30,NO,NO,Accepted
+Basic,69,5.3,Male,39,Electrophysiologist,Radiofrequency Ablation/ Catheter Ablation,Rivaroxaban,Xarelto,yes,87309,52195,3,YES,yes,78604,150,2,7,NO,YES,Rejected
+Basic,37,5.3,Female,47,Radiologist,Radical nephrectomy,Cerubidine,Daunorubicin,No,67846,55590,13,NO,yes,78504,125,3,42,NO,YES,Rejected
+Basic,0,1,Male(Child),45,Radiologist,Radical nephrectomy,Panitumumab,Vectibix,yes,69466,78257,3,NO,yes,87940,750,1,20,NO,NO,Rejected
+Basic,43,5,Male,61,Oncologist,Micrographic surgery,Adriamycin,Doxorubicin,No,79862,92583,17,NA,yes,69160,100,2,8,NO,NO,Partially Accepted
+Basic,54,5.5,Male,33,Oncologist,Micrographic surgery,Rozlytrek,Entrectinib,No,86334,74901,0,NA,yes,70998,1000,1,42,NO,YES,Rejected
+Basic,22,5.9,Male,38,Radiologist,Radical nephrectomy,Cytoxan,Cyclophosphamide,yes,80411,48403,2,NO,yes,94664,875,1,30,YES,NO,Rejected
+Basic,9,4.5,Male(Child),47,Interventional cardiologist,Transcatheter Aortic Valve Replacement (TAVR),Candesartan,Atacand,No,72882,97929,6,YES,NA,93210,6.25,1,7,YES,YES,Accepted
+Gold,7,4,Male(Child),47,Cardiologist,Atherectomy,Niacin,,No,89492,72046,13,YES,no,67846,800,2,8,YES,NO,Rejected
+Gold,50,5.9,Male,34,Pulmonologist,Laryngectomy,Adriamycin,Doxorubicin,No,69444,28460,3,NO,yes,86990,500,2,14,NO,YES,Rejected
+Gold,40,5.8,Male,80,Dermatologist,Melanoma,Rozlytrek,Entrectinib,No,60025,59535,4,NA,no,90132,12.5,3,14,YES,YES,Accepted
+Platinum,27,6.3,Male,45,Otolaryngologist,Reconstruction,Eloxatin,Oxaliplatin generic,No,84739,26375,4,NO,no,80379,250,3,21,NO,NO,Rejected
+Basic,60,5.9,Male,49,Surgical oncologist,A wedge resection,Paraplatin,Carboplatin,No,76200,35890,1,NA,yes,77159,560,1,8,NO,NO,Rejected
+Basic,5,3,Female(Child),37,Pathologist,Tracheostomy,Taxol,Paclitaxel,yes,85109,83768,3,NO,yes,77907,850,2,42,NO,NO,Partially Accepted
+Basic,37,5.9,Female,83,Pulmonologist,Laryngectomy,Aldara,Imiquimod,No,69506,60932,16,NO,yes,82029,775,2,8,YES,NO,Accepted
+Basic,27,6.3,Male,53,Maxillofacial surgeon,Reconstruction,Doxil,doxorubicin,No,89423,62379,11,NO,no,77243,875,3,21,NO,YES,Rejected
+Basic,72,6.5,Male,28,Breast surgeon,Lumpectomy,Rozlytrek,Entrectinib,No,91202,63850,2,NA,no,72164,40,2,8,YES,NO,Rejected
+Basic,70,6.3,Male,78,Surgical oncologist,Radical cystectomy and lymph node dissection,Mexate,Methotrexate,No,63923,34345,5,NA,yes,66326,775,1,20,NO,YES,Rejected
+Basic,55,5.9,Female,86,Neuro-oncologists,stereotaxis,Opdivo,Nivolumab,No,70451,42037,13,NA,no,68131,10,4,5,YES,NO,Rejected
+Basic,52,5.8,Male,55,Breast surgeon,Lumpectomy,Avastin,Bevacizumab,No,76573,28944,1,NA,no,76834,12.5,3,12,YES,NO,Rejected
+Basic,19,5.6,Female,62,Oncologist,Mandibulectomy,Adriamycin,Doxorubicin,No,67296,35967,15,NA,yes,62913,50,2,10,NO,YES,Rejected
+Basic,20,6.1,Male,61,Radiologist,Partial nephrectomy,Odomzo,Sonidegib,No,71608,88859,3,NO,yes,81838,50,4,5,YES,YES,Accepted
+Platinum,45,6.1,Male,64,Surgical oncologist,A wedge resection,oncovin,VINCRISTINE,No,61081,75204,8,NA,yes,66088,30,2,28,YES,YES,Accepted
+Gold,0,1,Female(Child),85,Electrophysiologist,Surgical Aortic Valve Replacement (SAVR),Torsemide,Demadex,yes,77482,36392,2,YES,yes,89351,200,2,28,NO,NO,Rejected
+Gold,66,6.9,Male,71,Cardiac surgeon,Congenital heart surgery,Aspirin,,yes,58279,72988,0,YES,yes,83637,90,1,8,NO,YES,Accepted
+Gold,24,6.2,Male,33,Thoracic surgeon,Sentinel lymph node biopsy (SLNB),Docetaxel,,yes,83171,80312,13,YES,yes,92647,100,1,10,NO,YES,Accepted
+Gold,65,5.8,Male,37,Cardiac surgeon,Aortic Surgery,Warfarin,Coumadin,yes,67297,33825,13,YES,yes,54048,250,2,42,YES,NO,Rejected
+Gold,70,5.9,Male,45,Dermatologist,Melanoma,Aldara,Imiquimod,No,76703,40938,17,NA,no,71642,750,4,12,YES,NO,Rejected
+Gold,13,4,Male(Child),59,Otolaryngologist,Reconstruction,Docetaxel,,No,70656,49551,12,NO,no,59763,300,2,20,YES,NO,Rejected
+Gold,68,5.8,Female,42,Thoracic surgeon,Sentinel lymph node biopsy (SLNB),Cytoxan,Cyclophosphamide,yes,80479,86000,12,YES,yes,73560,25,1,5,NO,NO,Partially Accepted
+Gold,50,5.9,Female,31,Medical oncologist,Segmentectomy,Odomzo,Sonidegib,No,57877,38241,4,YES,no,68509,800,3,30,NO,YES,Rejected
+Basic,54,5.9,Male,63,Radiologist,Radical nephrectomy,oncovin,VINCRISTINE,No,77469,56517,3,NO,yes,72210,150,2,20,YES,NO,Rejected
+Gold,45,5.7,Male,42,Medical oncologist,Glossectomy,Odomzo,Sonidegib,No,94905,73893,5,YES,no,96789,150,2,7,NO,YES,Rejected
+Basic,20,5.9,Male,40,Gastroenterologist,Gastrostomy tube,Taxol,Paclitaxel,No,68142,61878,11,YES,no,72695,150,2,42,YES,NO,Accepted
+Basic,27,5.7,Female,64,Surgical oncologist,A wedge resection,Ellence,Epirubicin,No,90988,41133,8,NA,yes,71720,850,3,10,NO,NO,Rejected
+Basic,34,6,Female,53,Neurosurgeons,craniotomy,Eloxatin,Oxaliplatin generic,No,80788,70940,10,NA,no,86599,150,3,14,NO,NO,Rejected
+Basic,59,6,Female,57,Dermatologist,Melanoma,Doxil,doxorubicin,No,58462,46346,15,NA,no,82945,1000,3,8,YES,NO,Rejected
+Basic,49,5.8,Female,39,Radiologist,Partial nephrectomy,Docetaxel,,No,61390,86523,12,NO,yes,93751,250,2,10,YES,NO,Accepted
+Basic,31,6.1,Male,33,Cardiac surgeon,Left ventricular assist device (LVAD),Losartan,Cozaar,No,89253,75090,1,NA,NA,52775,600,4,42,NO,YES,Rejected
+Platinum,37,6,Male,77,Cardiologist,Fontan,Amiloride,Midamor,No,71969,27534,7,YES,NA,82716,250,3,8,NO,YES,Rejected
+Platinum,33,6,Female,85,Otolaryngologist,Reconstruction,Gemzar,Gemcitabine,yes,91556,66793,2,NO,no,65817,160,3,12,NO,NO,Rejected
+Gold,46,6,Male,69,Dermatologist,Melanoma,DaunoXome,Daunorubicin,No,89348,51059,11,NA,no,98053,125,2,42,YES,YES,Rejected
+Gold,41,6.1,Female,46,Otolaryngologist,Neck dissection,Camptosar,Irinotecan generic,yes,82273,26280,11,NO,no,73635,560,3,14,NO,YES,Rejected
+Platinum,45,5.6,Female,87,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Doxil,doxorubicin,No,77494,84358,16,YES,yes,78149,775,2,7,NO,NO,Accepted
+Gold,20,6,Female,50,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Mexate,Methotrexate,No,79384,54386,12,NO,yes,51583,400,1,20,NO,NO,Rejected
+Gold,64,6.1,Male,60,Breast surgeon,Axillary lymph node dissection (ALND),Gemzar,Gemcitabine,No,85298,36535,5,NA,no,50741,150,2,28,NO,NO,Rejected
+Basic,55,6.5,Male,65,Cardiologist,Transcatheter Aortic Valve Replacement (TAVR),Nitroglycerin,Nitro Bid,No,86130,25789,16,NO,NA,63769,875,2,42,NO,NO,Rejected
+Basic,36,6,Male,86,Dermatologist,Melanoma,Odomzo,Sonidegib,No,74269,50792,13,NA,no,81866,25,4,42,NO,NO,Rejected
+Gold,45,6.4,Female,86,Medical oncologist,Glossectomy,Adriamycin,Doxorubicin,No,56440,87371,16,YES,no,84390,160,3,42,NO,YES,Accepted
+Basic,22,4.6,Male,46,Oncologist,Micrographic surgery,Mexate,Methotrexate,No,86898,51098,3,NA,yes,88465,250,2,20,NO,NO,Rejected
+Platinum,56,6.1,Male,89,Urologists,Urinary diversion,Eloxatin,Oxaliplatin generic,No,59619,44034,6,NA,NA,54842,850,3,20,NO,NO,Rejected
+Gold,35,6,Male,86,Radiologist,Radical nephrectomy,Cerubidine,Daunorubicin,No,64957,49882,8,NO,yes,50822,600,1,5,YES,NO,Rejected
+Gold,0,1,Male(Child),78,Pathologist,Tracheostomy,Cytoxan,Cyclophosphamide,yes,75081,86645,9,NO,yes,92542,140,2,5,NO,NO,Accepted
+Gold,66,6,Male,40,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Aldara,Imiquimod,No,87578,98032,14,NA,yes,71699,150,2,12,YES,YES,Partially Accepted
+Gold,50,5.6,Male,37,Urologists,Radical cystectomy and lymph node dissection,Paraplatin,Carboplatin,No,93916,97938,4,NA,NA,79923,560,1,12,NO,NO,Partially Accepted
+Gold,36,5.4,Female,78,Plastic surgeon,Radiofrequency ablation (RFA) or cryoablation,Avastin,Bevacizumab,No,77361,76119,16,NO,yes,57930,775,2,42,YES,NO,Partially Accepted
+Gold,45,5.4,Male,45,Cardiac surgeon,Stent placement,Eprosartan,Teveten,No,55938,97793,7,NA,NA,87614,150,1,20,YES,NO,Accepted
+Gold,53,5.5,Male,60,Electrophysiologist,ASD Repair,Pitavastatin,Livalo,yes,89216,54202,11,NO,NA,53468,10,3,5,YES,NO,Rejected
+Gold,46,4.9,Female,75,Radiation oncologist,Transurethral bladder tumor resection (TURBT),DaunoXome,Daunorubicin,No,85925,53017,14,YES,no,90072,140,2,5,NO,NO,Rejected
+Basic,27,6,Male,76,Gastroenterologist,Gastrostomy tube,oncovin,VINCRISTINE,No,63152,48530,9,YES,no,71636,600,2,30,YES,YES,Rejected
+Basic,8,3,Male(Child),67,Otolaryngologist,Neck dissection,Gemzar,Gemcitabine,yes,83873,64790,3,NO,yes,72409,6.25,4,7,NO,NO,Rejected
+Basic,23,5.4,Male,83,Radiologist,Partial nephrectomy,Ellence,Epirubicin,No,90624,68821,12,NO,yes,97599,30,3,28,NO,YES,Rejected
+Basic,75,5.4,Female,66,Electrophysiologist,Truncus Repair,Chlorothiazide,Diuril,yes,70928,91406,8,YES,yes,64840,875,3,30,NO,NO,Partially Accepted
+Basic,51,6,Female,40,Electrophysiologist,Atherectomy,Dabigatran,Pradaxa,yes,63990,63955,8,YES,yes,58889,250,1,12,YES,NO,Partially Accepted
+Basic,21,5.1,Male,30,Surgical oncologist,A wedge resection,Avastin,Bevacizumab,No,86033,32292,2,NA,yes,53735,250,2,20,NO,NO,Rejected
+Basic,42,5.6,Male,65,Pathologist,Tracheostomy,Paraplatin,Carboplatin,yes,94695,76525,1,NO,yes,63921,250,3,14,NO,NO,Rejected
+Basic,23,5,Male,30,Pathologist,Tracheostomy,Docetaxel,,yes,94424,49984,17,NO,yes,62213,140,2,21,YES,YES,Rejected
+Platinum,52,5.6,Male,44,Maxillofacial surgeon,Reconstruction,Docetaxel,,No,70392,87118,16,NO,no,92692,20,2,20,NO,NO,Accepted
+Gold,38,5.3,Female,89,Electrophysiologist,Norwood,Apixaban,Eliquis,yes,59917,96502,13,YES,yes,66412,400,2,20,NO,NO,Rejected
+Gold,49,5.8,Male,67,Pulmonologist,Colostomy,Taxol,Paclitaxel,No,56195,66747,10,NO,yes,94838,875,2,14,YES,NO,Rejected
+Gold,65,6,Male,45,Pathologist,Tracheostomy,Docetaxel,,yes,60286,72233,12,NO,yes,67815,200,3,14,YES,NO,Rejected
+Gold,47,5.6,Male,32,Cardiac surgeon,Arrhythimia surgery,Candesartan,Atacand,No,75987,86770,12,YES,NA,72620,40,4,14,YES,YES,Accepted
+Gold,69,5.9,Male,32,Radiologist,Radical nephrectomy,Aldara,Imiquimod,No,64905,66955,12,NO,yes,95595,750,2,8,YES,YES,Rejected
+Platinum,55,5.9,Male,75,Plastic surgeon,Colostomy,Avastin,Bevacizumab,No,88338,85116,1,NO,yes,87540,875,2,7,NO,NO,Accepted
+Basic,50,5.8,Male,54,Otolaryngologist,Neck dissection,Taxol,Paclitaxel,yes,57508,83226,2,NO,yes,62852,200,2,5,NO,NO,Accepted
+Basic,20,5.6,Female,72,Surgical oncologist,Urinary diversion,Paraplatin,Carboplatin,No,58744,90538,2,NA,yes,51690,90,2,28,NO,NO,Rejected
+Basic,51,6.9,Female,74,Pulmonologist,Colostomy,Doxil,doxorubicin,No,70211,75270,4,NO,yes,85555,30,1,42,YES,NO,Rejected
+Basic,51,6,Female,73,Pathologist,Tracheostomy,Paraplatin,Carboplatin,yes,75010,34168,12,NO,yes,68841,250,4,12,NO,NO,Rejected
+Basic,54,6,Male,31,Cardiologist,Fontan,Nimodipine,Nimotop,No,62603,63244,17,YES,no,85159,300,1,7,YES,YES,Accepted
+Basic,80,5.9,Male,28,Electrophysiologist,ASD Repair,Nitroglycerin,Nitro Bid,yes,55713,39394,11,YES,yes,55803,400,2,10,NO,YES,Rejected
+Basic,35,5.6,Male,86,Gastroenterologist,Gastrostomy tube,Opdivo,Nivolumab,No,72535,91882,9,YES,no,94389,250,4,14,NO,YES,Accepted
+Basic,28,5.2,Female,52,Dermatologist,Melanoma,Thioplex,Thiotepa,No,88057,46065,0,NA,no,55035,140,2,30,YES,YES,Rejected
+Gold,46,5.6,Male,42,Non-invasive cardiologist,Transcatheter Aortic Valve Replacement (TAVR),Labetalol hydrochloride,"Normodyne, Trandate",yes,90236,89910,4,NO,NA,57990,12.5,3,10,NO,YES,Accepted
+Gold,0,1,Female(Child),29,Radiologist,Radical nephrectomy,Cytoxan,Cyclophosphamide,No,75381,47663,5,NO,yes,82598,300,1,30,YES,NO,Rejected
+Gold,45,5.9,Male,36,Pathologist,Tracheostomy,Opdivo,Nivolumab,yes,90402,32087,3,NO,yes,95759,19,1,10,NO,YES,Rejected
+Gold,64,5.6,Male,61,Cardiologist,TOF Repair,Acetazolamide,Diamox,No,76384,77198,1,YES,NA,77515,750,4,20,NO,YES,Accepted
+Basic,19,5.1,Male,44,Oncologist,Mandibulectomy,Docetaxel,,No,66078,37435,16,NA,yes,56740,1000,3,5,NO,YES,Accepted
+Basic,55,6,Female,37,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Taxol,Paclitaxel,No,88325,52351,10,YES,yes,75024,850,2,7,YES,NO,Rejected
+Basic,50,6,Male,28,Urologists,Urinary diversion,Mexate,Methotrexate,No,91947,46383,15,NA,NA,90766,25,2,10,NO,YES,Rejected
+Basic,73,5.9,Male,31,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Thioplex,Thiotepa,No,60618,45566,9,NO,yes,85967,600,1,8,YES,NO,Rejected
+Basic,63,5.5,Male,46,Pathologist,Tracheostomy,Abraxane,Paclitaxel,yes,68710,38634,11,NO,yes,74638,250,2,42,NO,NO,Rejected
+Basic,64,5.6,Male,38,Cardiac surgeon,heart valve replacement,Sacubitril/valsartan,Entresto,No,77161,82257,11,NA,NA,81181,600,3,10,YES,NO,Accepted
+Basic,32,5.8,Female,45,Pathologist,Tracheostomy,Doxil,doxorubicin,yes,81989,96941,14,NO,yes,75298,30,2,8,NO,NO,Rejected
+Platinum,40,5.9,Male,73,Radiation oncologist,Transurethral bladder tumor resection (TURBT),Avastin,Bevacizumab,No,63840,46650,14,YES,no,54889,560,2,8,YES,YES,Rejected
+Platinum,55,5.9,Male,73,Non-invasive cardiologist,Radiofrequency Ablation/ Catheter Ablation,Perindopril,Aceon,yes,63798,38645,3,YES,NA,84668,100,2,14,NO,NO,Rejected
+Basic,53,5.9,Female,74,Pulmonologist,Colostomy,Mexate,Methotrexate,No,75807,56789,6,NO,yes,86051,800,3,21,NO,YES,Rejected
+Platinum,28,5.9,Male,67,Surgical oncologist,Radical cystectomy and lymph node dissection,Abraxane,Paclitaxel,No,57240,58382,5,NA,yes,60803,250,3,14,YES,NO,Rejected
+Gold,39,4.8,Male,77,Radiation oncologist,Transurethral bladder tumor resection (TURBT),Aldara,Imiquimod,No,72042,84124,4,YES,no,65896,500,1,12,NO,NO,Accepted
+Gold,49,5,Male,90,Radiologist,Partial nephrectomy,Thioplex,Thiotepa,No,68627,62995,13,NO,yes,76434,140,1,10,YES,YES,Rejected
+Gold,0,1,Female(Child),54,Neurosurgeons,craniotomy,Paraplatin,Carboplatin,No,64688,90712,6,NA,no,82646,20,2,30,YES,YES,Accepted
+Gold,38,5.5,Male,77,Urologists,Laparoscopic and robotic surgery (minimally invasive surgery),Avastin,Bevacizumab,No,90061,56529,1,NA,NA,69330,6.25,3,14,NO,YES,Rejected
+Gold,63,5.2,Male,56,Non-invasive cardiologist,Minimally Invasive Heart Surgery,Rosuvastatin,Crestor,yes,80658,42195,16,NO,NA,67818,125,3,42,NO,YES,Rejected
+Gold,0,1,Female(Child),88,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Avastin,Bevacizumab,No,55470,50583,12,YES,yes,73516,875,2,20,YES,YES,Accepted
+Gold,40,5.7,Male,34,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Zykadia,Ceritinib,No,57020,76135,7,YES,yes,89766,150,4,21,NO,YES,Rejected (P)
+Gold,65,6,Male,56,Medical oncologist,Glossectomy,Doxil,doxorubicin,No,57351,87673,9,YES,no,66900,140,1,14,NO,NO,Accepted
+Gold,22,5.6,Male,76,Maxillofacial surgeon,Reconstruction,Cytoxan,Cyclophosphamide,No,71546,50644,16,NO,no,78961,50,2,42,NO,NO,Rejected
+Basic,22,5,Male,73,Neuro-oncologists,Colostomy,Taxol,Paclitaxel,No,85565,68443,16,NA,no,58960,6.25,2,8,YES,YES,Rejected
+Basic,35,6,Male,72,Medical oncologist,Glossectomy,Avastin,Bevacizumab,No,90953,87004,16,YES,no,71103,20,4,42,NO,NO,Accepted
+Basic,57,6.1,Female,44,Urologists,Laparoscopic and robotic surgery (minimally invasive surgery),Thioplex,Thiotepa,No,78774,67118,8,NA,NA,62788,200,4,28,NO,NO,Rejected
+Basic,50,6.4,Male,88,Dermatologist,Melanoma,Gemzar,Gemcitabine,No,72961,61679,11,NA,no,91065,50,2,12,NO,NO,Rejected
+Platinum,42,5.8,Male,65,Otolaryngologist,Reconstruction,Docetaxel,,yes,76921,67722,2,NO,no,54013,10,3,14,NO,NO,Accepted
+Gold,40,5.9,Female,34,Interventional cardiologist,Atherectomy,Fosinopril,Monopril,yes,93321,26043,8,YES,NA,65719,125,3,14,NO,NO,Rejected
+Basic,56,5.8,Female,72,Electrophysiologist,CAVC Repair,Nimodipine,Nimotop,yes,88402,49214,3,NO,NA,86132,140,4,7,NO,YES,Rejected
+Basic,65,5.7,Male,34,Cardiac surgeon,Coronary artery bypass graft (CABG) surgery,Clopidogrel,Plavix,yes,91817,31614,5,YES,yes,62447,600,3,28,NO,NO,Rejected
+Basic,40,5.6,Female,51,Gastroenterologist,Gastrostomy tube,Thioplex,Thiotepa,No,68458,89232,15,YES,no,57910,500,2,10,NO,YES,Accepted
+Basic,47,6,Male,34,Interventional cardiologist,Fontan,Ticagrelor,Brilinta,No,83333,45675,1,YES,NA,53084,750,3,30,NO,YES,Rejected
+Basic,64,6,Male,33,Urologists,Urinary diversion,Cerubidine,Daunorubicin,No,93912,29931,15,NA,NA,55447,775,2,14,NO,YES,Rejected
+Basic,50,5.9,Male,77,Radiologist,Partial nephrectomy,Thioplex,Thiotepa,yes,79842,70103,5,NO,yes,98654,50,1,7,YES,NO,Rejected
+Basic,50,5.8,Male,30,Non-invasive cardiologist,CAVC Repair,Bisoprolol,Zebeta,yes,70243,26116,3,NO,NA,64614,600,1,28,YES,YES,Rejected
+Gold,65,5.7,Male,79,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),DaunoXome,Daunorubicin,No,67456,42763,11,NA,yes,96793,10,1,7,YES,NO,Rejected
+Gold,45,5,Female,43,Electrophysiologist,Minimally Invasive Heart Surgery,Niacin,,yes,83224,79115,9,NO,NA,81089,40,3,20,NO,NO,Rejected
+Gold,40,5.9,Female,71,Dermatologist,Melanoma,oncovin,VINCRISTINE,No,63236,93115,6,NA,no,62494,850,2,20,YES,NO,Accepted
+Gold,66,5.8,Female,58,Breast surgeon,Lumpectomy,Docetaxel,,No,57521,26737,7,NA,no,75780,12.5,3,8,YES,YES,Accepted
+Basic,55,5.6,Female,62,Electrophysiologist,VSD Repair,Isosorbide mononitrate,Imdur,yes,90588,50227,2,YES,yes,89843,150,1,42,YES,NO,Rejected
+Platinum,50,5.9,Male,84,Electrophysiologist,ASO,Candesartan,Atacand,yes,74700,39022,0,YES,yes,85440,19,1,5,NO,NO,Rejected
+Basic,66,6,Male,37,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Gemzar,Gemcitabine,No,56761,79226,9,NO,yes,81812,100,1,5,NO,NO,Accepted
+Basic,66,6.1,Male,32,Maxillofacial surgeon,Reconstruction,Cytoxan,Cyclophosphamide,No,89857,84676,0,NO,no,77850,40,4,8,YES,YES,Accepted
+Basic,45,5.5,Male,55,Otolaryngologist,Reconstruction,Cytoxan,Cyclophosphamide,No,83973,84518,8,NO,no,60938,6.25,1,10,NO,YES,Accepted
+Platinum,52,5.6,Male,36,Radiologist,Partial nephrectomy,Paraplatin,Carboplatin,No,93225,32475,16,NO,yes,90767,10,2,21,NO,NO,Rejected
+Platinum,35,5.9,Male,43,Breast surgeon,Mastectomy,Rozlytrek,Entrectinib,No,82203,97886,2,NA,no,82498,200,2,42,YES,YES,Accepted
+Gold,38,5.6,Female,56,Urologists,Urinary diversion,Opdivo,Nivolumab,No,73312,82945,13,NA,no,95248,400,2,5,NO,NO,Accepted
+Gold,60,5.5,Female,33,Dermatologist,Melanoma,Opdivo,Nivolumab,No,86283,92764,9,NA,no,95652,12.5,3,21,YES,NO,Accepted
+Gold,60,5.9,Female,36,Oncologist,Micrographic surgery,DaunoXome,Daunorubicin,No,73342,38003,7,NA,yes,60008,160,1,20,NO,NO,Rejected
+Gold,45,5.3,Female,90,Interventional cardiologist,Fontan,Nitroglycerin,Nitro Stat,No,63983,69275,17,NO,NA,66370,100,3,7,NO,NO,Accepted
+Gold,51,6,Female,67,Radiation oncologist,Radical cystectomy and lymph node dissection,Docetaxel,,No,60526,63930,3,YES,no,70892,10,2,28,YES,NO,Accepted
+Gold,80,6,Male,45,Radiation oncologist,Urinary diversion,oncovin,VINCRISTINE,No,56423,84992,1,NA,no,78479,600,3,28,NO,YES,Accepted
+Platinum,56,6.2,Female,45,Radiation oncologist,Urinary diversion,Cytoxan,Cyclophosphamide,No,88177,58752,16,NA,yes,81516,560,1,12,NO,NO,Rejected
+Gold,54,6.3,Female,76,Urologists,Transurethral bladder tumor resection (TURBT),Aldara,Imiquimod,No,84130,64170,17,NA,NA,78338,560,3,10,YES,NO,Rejected
+Basic,36,5.3,Male,47,Dermatologist,Melanoma,Eloxatin,Oxaliplatin generic,No,84230,39380,8,NA,no,59895,600,1,30,NO,YES,Rejected
+Gold,38,5.6,Male,80,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Thioplex,Thiotepa,No,67546,73230,15,YES,no,71848,100,1,20,YES,NO,Accepted
+Basic,51,6.1,Male,85,Neuro-oncologists,stereotaxis,Rozlytrek,Entrectinib,No,91554,96581,14,NA,no,64797,40,2,8,NO,YES,Accepted
+Gold,56,6.1,Male,80,Neurosurgeons,craniotomy,Gemzar,Gemcitabine,No,60830,46727,14,NA,no,64967,400,4,10,YES,NO,Rejected
+Basic,32,5.9,Male,87,Cardiologist,Atherectomy,Rosuvastatin,Crestor,No,81922,49835,14,NA,NA,52236,25,2,10,YES,NO,Rejected
+Basic,67,5.8,Female,62,Neuro-oncologists,Colostomy,Camptosar,Irinotecan generic,No,80384,32545,8,NA,no,65939,12.5,2,14,NO,NO,Rejected
+Gold,54,5.9,Male,57,Pathologist,Tracheostomy,DaunoXome,Daunorubicin,yes,59929,48803,17,NO,yes,60611,150,3,42,NO,NO,Rejected
+Gold,44,5.8,Male,89,Surgical oncologist,A wedge resection,DaunoXome,Daunorubicin,No,90281,37566,2,NA,yes,67029,100,3,14,NO,NO,Rejected
+Platinum,12,4.8,Male(Child),58,Surgical oncologist,A wedge resection,Aldara,Imiquimod,No,79196,64296,4,NA,yes,65449,250,2,10,NO,NO,Rejected
+Basic,18,5.6,Male,84,Dermatologist,Melanoma,Thioplex,Thiotepa,No,58561,47111,2,NA,no,58826,25,1,10,NO,NO,Rejected
+Basic,44,5.1,Male,86,Surgical oncologist,A wedge resection,Adriamycin,Doxorubicin,No,59711,72286,14,NA,yes,85462,250,2,14,YES,NO,Rejected
+Basic,0,1,Male(Child),33,Dermatologist,Melanoma,Thioplex,Thiotepa,No,89802,32662,7,NA,no,61914,25,2,30,YES,NO,Rejected
+Gold,18,5.6,Female,80,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Zykadia,Ceritinib,No,78628,44649,7,YES,no,68912,200,3,20,NO,NO,Rejected
+Basic,30,5.9,Male,57,Surgical oncologist,A wedge resection,Odomzo,Sonidegib,No,94372,33230,2,NA,yes,59890,6.25,3,20,NO,NO,Rejected
+Basic,54,6.4,Male,85,Electrophysiologist,BDG/ Hemi-Fontan,Prasugrel,Effient,yes,77309,58289,12,YES,yes,67470,600,3,12,YES,YES,Rejected
+Basic,0,1,Male(Child),31,Plastic surgeon,Colostomy,Taxol,Paclitaxel,No,66531,93612,17,NO,yes,77883,1000,3,14,NO,YES,Rejected
+Basic,64,6,Male,42,Otolaryngologist,Neck dissection,Adriamycin,Doxorubicin,yes,66090,51376,13,NO,yes,67200,30,2,28,NO,NO,Rejected
+Gold,47,6.6,Male,52,Cardiac surgeon,Angioplasty/ Percutaneous Coronary Interventions [PCI],Valsartan,Diovan,No,57974,48936,12,NA,NA,50720,750,3,8,YES,YES,Rejected
+Gold,54,6.1,Male,77,Non-invasive cardiologist,Norwood,Olmesartan,Benicar,yes,69166,31326,6,YES,NA,87881,30,2,20,YES,YES,Rejected
+Gold,55,6.7,Male,61,Maxillofacial surgeon,Reconstruction,oncovin,VINCRISTINE,No,64460,90637,1,NO,no,91063,25,2,14,YES,YES,Accepted
+Gold,1,1.5,Male(Child),87,Oncologist,Micrographic surgery,Thioplex,Thiotepa,No,86322,43423,17,NA,yes,81147,800,3,10,NO,NO,Rejected
+Gold,35,6.2,Male,59,Dermatologist,Melanoma,Taxol,Paclitaxel,No,67138,64241,8,NA,no,86779,560,3,8,NO,NO,Accepted
+Gold,34,6.8,Female,88,Neurosurgeons,craniotomy,Odomzo,Sonidegib,No,87458,56581,10,NA,no,70067,30,1,7,YES,NO,Rejected
+Gold,38,6.3,Male,63,Dermatologist,Melanoma,Zykadia,Ceritinib,No,84369,71325,8,NA,no,87797,140,2,8,YES,YES,Rejected
+Basic,47,6.3,Female,38,Urologists,Transurethral bladder tumor resection (TURBT),Paraplatin,Carboplatin,No,62308,61766,16,NA,NA,71753,10,4,12,NO,NO,Accepted
+Basic,65,6.7,Male,64,Otolaryngologist,Neck dissection,Odomzo,Sonidegib,yes,57945,95432,8,NO,yes,80003,875,2,20,NO,NO,Rejected
+Platinum,24,6.1,Male,73,Surgical oncologist,Mandibulectomy,Abraxane,Paclitaxel,No,56274,82977,16,NA,yes,65773,875,1,20,YES,NO,Rejected
+Platinum,0,1,Male(Child),45,Pathologist,Tracheostomy,Eloxatin,Oxaliplatin generic,yes,72823,77575,10,NO,yes,79535,500,3,5,NO,YES,Accepted
+Basic,45,6.7,Male,30,Otolaryngologist,Neck dissection,Panitumumab,Vectibix,yes,91663,83140,5,NO,yes,53881,600,2,30,NO,NO,Rejected
+Gold,57,6.2,Female,63,Plastic surgeon,Colostomy,Odomzo,Sonidegib,No,77194,30867,2,NO,yes,67218,6.25,4,42,NO,NO,Rejected
+Basic,37,6.3,Female,39,Radiation oncologist,Axillary lymph node dissection (ALND),Camptosar,Irinotecan generic,No,89202,32852,11,NA,yes,56570,50,2,42,NO,NO,Rejected
+Basic,66,6.4,Male,86,Plastic surgeon,Radiofrequency ablation (RFA) or cryoablation,Rozlytrek,Entrectinib,No,72309,62437,15,NO,yes,94763,500,3,20,NO,NO,Rejected
+Basic,4,2.6,Male(Child),78,Dermatologist,Melanoma,Docetaxel,,No,62507,93714,17,NA,no,93799,200,1,20,NO,YES,Accepted
+Basic,21,6.4,Male,64,Dermatologist,Melanoma,Avastin,Bevacizumab,No,76031,28694,2,NA,no,91717,125,1,14,NO,YES,Rejected
+Gold,57,6.5,Male,50,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Adriamycin,Doxorubicin,No,66894,76404,4,YES,no,77002,100,1,42,NO,NO,Accepted
+Gold,0,1,Female(Child),84,Electrophysiologist,ASD Repair,Atorvastatin,Lipitor,yes,92806,77649,12,NO,NA,92669,12.5,3,20,YES,NO,Rejected
+Gold,57,6.5,Male,45,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Eloxatin,Oxaliplatin generic,No,81073,52050,15,NO,yes,77073,19,3,20,NO,NO,Rejected
+Gold,0,1,Male(Child),88,Vascular surgeon,Radical cystectomy and lymph node dissection,Rozlytrek,Entrectinib,No,94461,92592,9,YES,yes,55725,90,4,14,NO,NO,Accepted
+Gold,12,4.6,Female(Child),74,Neurosurgeons,craniotomy,Camptosar,Irinotecan generic,No,78175,29504,10,NA,no,74757,800,3,20,NO,NO,Rejected
+Gold,61,6.8,Male,85,Breast surgeon,Lumpectomy,Abraxane,Paclitaxel,No,72340,35533,10,NA,no,96207,800,2,20,NO,NO,Rejected
+Gold,41,5.9,Male,43,Maxillofacial surgeon,Reconstruction,oncovin,VINCRISTINE,No,83662,86606,8,NO,no,71042,25,1,12,NO,NO,Accepted
+Platinum,28,5.9,Male,40,Dermatologist,Melanoma,Ellence,Epirubicin,No,57010,62218,12,NA,no,89576,250,2,20,NO,YES,Accepted
+Basic,73,6.6,Male,38,Gastroenterologist,Gastrostomy tube,Paraplatin,Carboplatin,No,77573,71366,8,YES,no,52349,25,2,8,YES,NO,Accepted
+Basic,41,6.1,Female,89,Dermatologist,Melanoma,Adriamycin,Doxorubicin,No,76668,55615,12,NA,no,78018,800,4,14,YES,NO,Rejected
+Basic,13,5,Male(Child),81,Oncologist,Mandibulectomy,DaunoXome,Daunorubicin,No,59840,27234,14,NA,yes,89176,20,2,12,NO,NO,Rejected
+Basic,70,6,Male,73,Plastic surgeon,Radiofrequency ablation (RFA) or cryoablation,Eloxatin,Oxaliplatin generic,No,93251,58385,15,NO,yes,79368,125,4,12,NO,NO,Rejected
+Basic,57,6.2,Female,35,Cardiac surgeon,Aortic valve surgery,Ticagrelor,Brilinta,yes,93704,61603,8,YES,yes,84228,250,2,42,NO,NO,Rejected
+Gold,69,6.7,Male,46,Medical oncologist,Glossectomy,Cerubidine,Daunorubicin,No,66145,26838,17,YES,no,51249,90,3,7,NO,YES,Rejected
+Basic,58,6.6,Female,43,Oncologist,Micrographic surgery,Gemzar,Gemcitabine,No,62517,48689,5,NA,yes,92969,25,2,14,YES,YES,Rejected
+Basic,64,6.7,Female,39,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,Adriamycin,Doxorubicin,No,62496,25126,12,NO,yes,98663,100,1,20,YES,NO,Rejected
+Basic,52,6.5,Female,64,Electrophysiologist,Radiofrequency Ablation/ Catheter Ablation,Metalozone,Zaroxolyn,yes,85647,70677,4,YES,yes,73062,140,2,12,NO,NO,Rejected
+Basic,59,6.5,Male,50,Medical oncologist,Segmentectomy,Ellence,Epirubicin,No,60400,96594,2,YES,no,68776,775,3,21,NO,NO,Accepted
+Basic,33,6.2,Male,50,Dermatologist,Melanoma,Paraplatin,Carboplatin,No,63000,76935,16,NA,no,90732,200,4,30,NO,NO,Accepted
+Basic,30,6.4,Male,80,Radiation oncologist,Transurethral bladder tumor resection (TURBT),Rozlytrek,Entrectinib,No,74697,73847,12,YES,no,51311,140,2,7,NO,YES,Accepted
+Basic,52,6.7,Male,85,Electrophysiologist,CAVC Repair,Ticagrelor,Brilinta,yes,62331,47484,14,YES,yes,98975,1000,2,14,NO,YES,Rejected
+Gold,69,5.8,Female,38,Pathologist,Partial nephrectomy,Paraplatin,Carboplatin,yes,70585,53858,3,NO,yes,68495,1000,3,20,NO,YES,Rejected
+Gold,63,6.5,Male,46,Pulmonologist,Laryngectomy,Abraxane,Paclitaxel,No,73107,68274,1,NO,yes,61610,750,1,7,NO,YES,Accepted
+Gold,57,5.9,Male,73,Radiologist,Partial nephrectomy,Thioplex,Thiotepa,No,86714,54483,10,NO,yes,51935,30,2,28,NO,YES,Rejected
+Gold,64,6.3,Female,59,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Abraxane,Paclitaxel,No,87725,36864,9,YES,yes,75951,250,1,14,NO,YES,Rejected
+Basic,30,6.7,Male(Child),44,Pulmonologist,Colostomy,DaunoXome,Daunorubicin,No,67609,27768,8,NO,yes,69462,150,3,20,YES,YES,Rejected
+Basic,60,6.2,Male,75,Radiologist,Partial nephrectomy,Taxol,Paclitaxel,yes,89755,36696,15,NO,yes,97477,12.5,2,12,YES,YES,Rejected
+Basic,25,6.5,Male,55,Pulmonologist,Laryngectomy,Eloxatin,Oxaliplatin generic,No,84641,31262,6,NO,yes,97727,500,1,30,YES,NO,Rejected
+Basic,49,6.2,Female,87,Pathologist,Tracheostomy,Panitumumab,Vectibix,yes,84999,42194,10,NO,yes,60331,600,2,8,YES,YES,Rejected
+Basic,32,6.6,Male,69,Otolaryngologist,Neck dissection,Mexate,Methotrexate,yes,66879,36625,6,NO,yes,73453,140,2,12,NO,NO,Rejected
+Basic,51,6.3,Male,67,Dermatologist,Melanoma,Paraplatin,Carboplatin,No,76818,60698,6,NA,no,64970,600,2,20,YES,NO,Rejected
+Basic,66,6.1,Female,28,Otolaryngologist,Reconstruction,Thioplex,Thiotepa,yes,82842,28002,5,NO,no,70289,560,2,12,YES,YES,Rejected
+Basic,29,6.6,Male,71,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Paraplatin,Carboplatin,No,88989,49931,17,NA,no,57327,160,1,30,YES,NO,Rejected
+Platinum,42,6.3,Male(Child),80,Plastic surgeon,Colostomy,Zykadia,Ceritinib,No,69440,47977,12,NO,yes,59221,560,3,5,NO,NO,Rejected
+Gold,49,6.3,Male,80,Interventional cardiologist,CAVC Repair,Candesartan,Atacand,No,61132,82853,16,YES,NA,94876,10,3,21,NO,YES,Accepted
+Gold,85,6.1,Female,62,Gastroenterologist,Glossectomy,DaunoXome,Daunorubicin,No,93700,36188,12,YES,no,99051,25,3,21,YES,NO,Rejected
+Gold,46,5.9,Female,31,Dermatologist,Melanoma,Abraxane,Paclitaxel,No,78615,47921,15,NA,no,92852,50,2,28,YES,NO,Rejected
+Gold,66,6.2,Male,40,Breast surgeon,Axillary lymph node dissection (ALND),Paraplatin,Carboplatin,No,77058,29755,4,NA,no,72188,400,2,14,YES,YES,Rejected
+Gold,74,6.7,Male,67,Cardiologist,VSD Repair,Furosemide,Lasix,No,62695,83846,11,YES,no,56277,20,1,28,NO,NO,Accepted
+Gold,47,6.4,Male,76,Neurosurgeons,craniotomy,Aldara,Imiquimod,No,58810,80036,16,NA,no,68384,12.5,4,8,YES,NO,Accepted
+Gold,76,6.7,Male,87,Pathologist,Tracheostomy,oncovin,VINCRISTINE,yes,88854,37634,3,NO,yes,59580,90,2,8,NO,NO,Rejected
+Platinum,50,6,Female,83,Otolaryngologist,Neck dissection,Ellence,Epirubicin,yes,64336,87668,7,NO,yes,60601,775,2,20,YES,NO,Rejected
+Basic,40,6,Male,52,Radiologist,Radical nephrectomy,Rozlytrek,Entrectinib,No,68581,59401,7,NO,yes,68506,875,3,7,YES,YES,Rejected
+Basic,48,5.9,Male,69,Non-invasive cardiologist,Cardiomyoplasty,Valsartan,Diovan,yes,58576,64671,7,YES,NA,59074,150,2,30,NO,NO,Rejected
+Basic,71,6.6,Male,83,Neurosurgeons,craniotomy,Ellence,Epirubicin,No,73668,26094,6,NA,no,58153,25,3,5,YES,NO,Rejected
+Basic,70,6.1,Male,38,Radiation oncologist,Radical cystectomy and lymph node dissection.,Mexate,Methotrexate,No,91723,51052,10,NA,no,90302,250,1,30,YES,NO,Rejected
+Basic,60,6.1,Male,88,Cardiologist,Cardiomyoplasty,Ezetimibe,Zetia,No,60463,75513,7,YES,no,94722,750,2,28,YES,NO,Accepted
+Gold,49,5.9,Male,64,Non-invasive cardiologist,Fontan,Azilsartan,Edarbi,yes,63097,48167,6,YES,NA,80975,775,3,10,YES,YES,Rejected
+Gold,40,6.4,Female,66,Maxillofacial surgeon,Reconstruction,Gemzar,Gemcitabine,No,60228,82190,3,NO,no,86673,875,3,5,YES,YES,Accepted
+Gold,40,6.2,Female,62,Non-invasive cardiologist,Surgical Aortic Valve Replacement (SAVR),Pravastatin,Pravachol,yes,73316,80208,10,NO,NA,84143,160,3,8,YES,NO,Accepted
+Gold,83,6.4,Female,71,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Panitumumab,Vectibix,No,76401,46802,4,YES,no,97201,150,4,21,YES,YES,Rejected
+Gold,88,5.8,Male,71,Medical oncologist,Glossectomy,Rozlytrek,Entrectinib,No,57209,71693,0,YES,no,77815,30,2,10,NO,NO,Accepted
+Platinum,32,6.4,Male,51,Oncologist,Neck dissection,oncovin,VINCRISTINE,No,85186,88312,7,NA,yes,84261,250,2,8,NO,NO,Rejected
+Basic,52,6.3,Male,72,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Paraplatin,Carboplatin,No,94870,68884,10,YES,no,78853,800,2,28,NO,NO,Rejected
+Gold,70,5.8,Female,82,Dermatologist,Melanoma,Ellence,Epirubicin,No,77512,30397,3,NA,no,65857,25,1,5,NO,NO,Rejected
+Gold,50,6.4,Male,65,Oncologist,Mandibulectomy,Opdivo,Nivolumab,No,58879,82293,9,NA,yes,66962,30,4,14,YES,NO,Rejected
+Gold,36,6,Female(Child),75,Oncologist,Laparoscopic surgery,Eloxatin,Oxaliplatin generic,No,71063,31829,3,NA,yes,57342,800,3,14,NO,NO,Rejected
+Gold,47,6.4,Male,62,Neuro-oncologists,Radiofrequency ablation (RFA) or cryoablation,oncovin,VINCRISTINE,No,86394,88012,15,NA,no,71652,800,3,21,NO,NO,Accepted
+Gold,79,6.1,Male,75,Oncologist,Lobectomy,Camptosar,Irinotecan generic,No,78030,91746,6,NA,yes,58361,140,2,5,NO,NO,Accepted
+Platinum,51,6.1,Male,53,Cardiac surgeon,Transmyocardial Revascularization (TMR),Valsartan,Diovan,No,61262,53955,7,NA,NA,66680,125,4,21,YES,YES,Rejected
+Basic,60,6.5,Female,84,Cardiac surgeon,Aortic valve surgery,Apixaban,Eliquis,yes,64088,47748,6,YES,yes,60496,750,2,7,NO,YES,Rejected
+Basic,26,6.3,Male,64,Cardiologist,ASD Repair,Furosemide,Lasix,No,65982,63062,12,YES,no,91311,19,4,21,NO,NO,Accepted
+Basic,39,5.8,Male,57,Plastic surgeon,Tracheostomy,Docetaxel,,No,78507,25025,12,NO,yes,62309,560,3,42,NO,NO,Rejected
+Basic,30,6.4,Male,65,Electrophysiologist,Cardiomyoplasty,Edoxaban,Savaysa,yes,67921,78501,14,YES,yes,60902,25,3,20,YES,NO,Rejected
+Basic,26,6.6,Male,58,Breast surgeon,Sentinel lymph node biopsy (SLNB),Odomzo,Sonidegib,No,59130,50116,2,NA,no,67312,500,3,12,NO,YES,Rejected
+Basic,55,6.5,Female,34,Dermatologist,Melanoma,Avastin,Bevacizumab,No,74743,59469,7,NA,no,73484,25,2,28,YES,NO,Rejected
+Basic,43,6,Male,79,Maxillofacial surgeon,Reconstruction,Avastin,Bevacizumab,No,84529,69414,5,NO,no,57361,775,1,21,NO,NO,Rejected
+Platinum,61,6.3,Male,34,Cardiac surgeon,Congenital heart surgery,Moexipril,Univasc,No,84445,32587,11,NA,NA,56878,10,2,20,YES,YES,Rejected
+Gold,80,6,Female,90,Urologists,Urinary diversion,Mexate,Methotrexate,No,90437,47224,16,NA,no,50444,19,2,30,NO,NO,Rejected
+Gold,89,6.6,Male,51,Urologists,Urinary diversion,Thioplex,Thiotepa,No,78483,92437,14,NA,yes,98143,140,2,20,YES,NO,Rejected
+Gold,35,5.9,Male,28,Urologists,Transurethral bladder tumor resection (TURBT),Ellence,Epirubicin,No,64793,35369,17,NA,NA,67974,30,1,12,NO,NO,Rejected
+Gold,75,5.9,Male,46,Vascular surgeon,Radical cystectomy and lymph node dissection,Panitumumab,Vectibix,yes,66870,58642,10,YES,yes,54187,20,3,28,NO,NO,Rejected
+Gold,64,6.6,Female(Child),48,Breast surgeon,Lumpectomy,Zykadia,Ceritinib,No,63241,54428,2,NA,no,94282,50,2,8,YES,YES,Rejected
+Gold,30,6.7,Male,71,Urologists,Urinary diversion,Odomzo,Sonidegib,No,73449,47152,4,NA,NA,57714,875,2,12,NO,YES,Rejected
+Platinum,46,5.9,Male,90,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Thioplex,Thiotepa,No,63391,76294,16,NA,no,55452,50,1,21,NO,YES,Accepted
+Basic,28,6.1,Female(Child),63,Interventional cardiologist,ASO,Benazepril,Lotensin,No,79272,87904,2,YES,NA,64551,12.5,3,12,NO,YES,Accepted
+Basic,51,6.3,Male,68,Electrophysiologist,Truncus Repair,Apixaban,Eliquis,yes,76088,76593,1,YES,yes,88050,160,3,5,YES,NO,Rejected (P)
+Basic,25,6.6,Male,42,Dermatologist,Melanoma,Paraplatin,Carboplatin,No,76198,98951,14,NA,no,68147,775,1,28,NO,YES,Accepted
+Basic,76,6.7,Male,62,Neurosurgeons,craniotomy,Mexate,Methotrexate,No,79974,28480,12,NA,no,51360,800,2,28,NO,YES,Rejected
+Basic,44,6.7,Male,47,Maxillofacial surgeon,Reconstruction,Adriamycin,Doxorubicin,No,78354,82916,1,NO,no,50636,560,2,20,NO,NO,Accepted
+Basic,48,6.2,Male,53,Neuro-oncologists,Radiofrequency ablation (RFA) or cryoablation,Cytoxan,Cyclophosphamide,No,60995,83534,8,NA,no,91999,400,1,42,NO,NO,Accepted
+Basic,36,6.5,Female,90,Neurosurgeons,craniotomy,Paraplatin,Carboplatin,No,62849,34267,14,NA,no,61529,560,1,7,NO,YES,Rejected
+Basic,73,6.3,Male,75,Neuro-oncologists,stereotaxis,Taxol,Paclitaxel,No,63850,68070,5,NA,no,83081,40,1,28,NO,NO,Accepted
+Basic,33,6.1,Male,29,Interventional cardiologist,Norwood,Edoxaban,Savaysa,No,73494,78786,1,YES,NA,88628,560,2,8,YES,NO,Accepted
+Basic,62,6.7,Female,80,Medical oncologist,Segmentectomy,Gemzar,Gemcitabine,No,61367,58608,11,YES,no,84362,20,1,20,YES,YES,Accepted
+Gold,39,6.2,Female,62,Urologists,Radical cystectomy and lymph node dissection,Rozlytrek,Entrectinib,No,89282,84374,12,NA,NA,58121,140,3,20,NO,NO,Accepted
+Gold,51,5.8,Male,62,Interventional cardiologist,Minimally Invasive Heart Surgery,Warfarin,Coumadin,No,79093,87905,5,YES,NA,86237,40,3,8,YES,YES,Accepted
+Gold,46,6.4,Female,46,Oncologist,Neck dissection,Paraplatin,Carboplatin,No,75623,77331,7,NA,yes,53713,20,2,8,YES,YES,Rejected
+Gold,25,6.3,Male,62,Urologists,Urinary diversion,DaunoXome,Daunorubicin,No,81584,26669,6,NA,NA,82202,400,3,5,YES,YES,Rejected
+Gold,54,6.1,Male,61,Radiologist,Partial nephrectomy,Docetaxel,,No,77807,88846,2,NO,yes,57700,600,3,10,NO,NO,Rejected
+Gold,75,6.2,Male,73,Urologists,Urinary diversion,Avastin,Bevacizumab,No,57418,65633,16,NA,NA,88043,300,3,42,YES,NO,Accepted
+Gold,76,6.8,Male,51,Non-invasive cardiologist,VSD Repair,Acebutolol,Sectral,yes,90413,29811,14,YES,NA,79843,750,3,20,YES,YES,Rejected
+Platinum,76,6.5,Male,75,Electrophysiologist,Transcatheter Aortic Valve Replacement (TAVR),Warfarin,Coumadin,yes,57909,54935,11,YES,yes,84986,50,3,5,NO,YES,Accepted
+Platinum,45,6,Female,29,Urologists,Radical cystectomy and lymph node dissection,Eloxatin,Oxaliplatin generic,No,68985,56434,3,NA,yes,64975,6.25,1,21,NO,NO,Rejected
+Platinum,57,6.2,Female,34,Pulmonologist,Laryngectomy,Odomzo,Sonidegib,No,71215,55173,1,NO,yes,80264,560,1,42,NO,YES,Rejected
+Platinum,66,6.2,Female,70,Pathologist,Tracheostomy,Cerubidine,Daunorubicin,yes,85194,50399,2,NO,yes,55107,10,4,28,NO,NO,Rejected
+Platinum,54,5.8,Female,82,Pulmonologist,Radiofrequency ablation (RFA) or cryoablation,DaunoXome,Daunorubicin,yes,4251,4029,9,NO,yes,90766,600,1,14,NO,YES,Rejected
+Platinum,12,4.3,Male(Child),28,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Adriamycin,Doxorubicin,No,2170,5675,9,NA,yes,53969,40,1,5,NO,YES,Accepted
+Platinum,54,5.8,Male,68,Dermatologist,Melanoma,Cerubidine,Daunorubicin,No,2076,7497,4,NA,no,52527,40,2,14,YES,YES,Accepted
+Platinum,28,5.8,Male,80,Maxillofacial surgeon,Reconstruction,Taxol,Paclitaxel,No,2730,6256,6,NO,no,50056,160,2,8,NO,NO,Accepted
+Platinum,26,5.1,Female,59,Breast surgeon,Sentinel lymph node biopsy (SLNB),DaunoXome,Daunorubicin,No,4885,8238,10,NA,no,57721,300,2,14,NO,NO,Accepted
+Basic,80,6.2,Male,64,Maxillofacial surgeon,Reconstruction,Cytoxan,Cyclophosphamide,No,1583,5282,3,NO,no,69326,160,2,30,YES,NO,Accepted
+Gold,54,6,Male,87,Cardiologist,CAVC Repair,Verapamil,"Calan, Verelan",No,5532,4416,10,YES,no,67659,10,2,5,NO,NO,Accepted
+Gold,36,5.8,Female,69,Medical oncologist,Segmentectomy,Docetaxel,,No,2550,4344,14,YES,no,50367,25,4,21,NO,NO,Accepted
+Gold,67,6.2,Male,73,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Paraplatin,Carboplatin,No,1686,5091,2,YES,yes,53036,125,1,12,YES,YES,Accepted
+Gold,13,4.2,Male(Child),34,Vascular surgeon,Radical cystectomy and lymph node dissection,Opdivo,Nivolumab,yes,6381,5339,11,YES,no,76286,1000,2,12,YES,NO,Rejected
+Gold,37,6.2,Male,54,Medical oncologist,Glossectomy,Cytoxan,Cyclophosphamide,No,4609,5950,17,YES,no,93199,175,4,14,NO,NO,Accepted
+Platinum,44,6.3,Female,64,Breast surgeon,Mastectomy,Adriamycin,Doxorubicin,No,3358,8643,15,NA,no,51348,6.25,2,14,NO,NO,Accepted
+Basic,58,6.1,Female,81,Breast surgeon,Mastectomy,Odomzo,Sonidegib,yes,5921,3846,7,NA,no,85630,19,3,12,NO,NO,Rejected
+Gold,37,5.9,Male,69,Maxillofacial surgeon,Reconstruction,Panitumumab,Vectibix,No,4546,4309,5,NO,no,73086,140,2,12,NO,YES,Accepted
+Gold,41,6.6,Male,53,Urologists,Radical cystectomy and lymph node dissection,oncovin,VINCRISTINE,No,6410,4165,13,NA,yes,63083,50,1,8,NO,YES,Rejected
+Gold,71,6.1,Male,61,Otolaryngologist,Reconstruction,Cerubidine,Daunorubicin,No,5028,8386,14,NO,no,99361,20,2,14,NO,YES,Accepted
+Basic,71,6.5,Male,74,Pathologist,Tracheostomy,Cytoxan,Cyclophosphamide,yes,5833,2679,3,NO,yes,50418,6.25,1,14,YES,NO,Rejected
+Basic,33,5.3,Female,38,Neuro-oncologists,stereotaxis,Cerubidine,Daunorubicin,No,3967,4329,3,NA,no,99621,250,2,14,NO,NO,Accepted
+Gold,79,5.8,Female,75,Breast surgeon,Mastectomy,DaunoXome,Daunorubicin,No,3131,8955,3,NA,no,60722,160,3,14,YES,NO,Accepted
+Gold,76,6.3,Male,39,Medical oncologist,Glossectomy,Docetaxel,,No,5192,7760,10,YES,no,76427,300,2,21,NO,NO,Accepted
+Gold,55,6,Male,48,Interventional cardiologist,CAVC Repair,Apixaban,Eliquis,No,4876,2500,13,NO,NA,97917,12.5,2,7,NO,NO,Rejected
+Gold,36,5.7,Male,77,Cardiologist,BDG/ Hemi-Fontan,Nisoldipine,Sular,No,3692,4302,14,YES,no,98977,125,1,5,NO,NO,Accepted
+Basic,81,5.2,Male,72,Oncologist,Mandibulectomy,Cytoxan,Cyclophosphamide,No,3901,7396,7,NA,yes,98504,25,4,7,NO,NO,Accepted
+Basic,40,5.8,Male,34,Radiation oncologist,Transurethral bladder tumor resection (TURBT),Panitumumab,Vectibix,yes,3136,2945,3,NA,no,71589,300,2,30,NO,NO,Rejected
+Basic,70,6.2,Female,84,Urologists,Transurethral bladder tumor resection (TURBT),DaunoXome,Daunorubicin,No,3224,8668,4,NA,no,61884,250,2,21,YES,YES,Accepted
+Basic,79,5.9,Female,89,Neurosurgeons,craniotomy,Avastin,Bevacizumab,No,8526,4760,13,NA,no,64336,875,2,10,NO,NO,Rejected
+Basic,81,5.9,Female,70,Breast surgeon,Lumpectomy,Opdivo,Nivolumab,No,3233,6347,5,NA,no,58910,125,3,10,NO,NO,Accepted
+Basic,79,5.9,Male,89,Neurosurgeons,craniotomy,Camptosar,Irinotecan generic,yes,8276,3512,4,NA,no,50068,560,3,5,NO,NO,Rejected
+Basic,80,6.5,Male,78,Radiologist,Radical nephrectomy,Avastin,Bevacizumab,yes,7694,5241,2,NO,yes,92109,560,3,8,YES,YES,Rejected
+Gold,25,5.8,Male,59,Dermatologist,Melanoma,Camptosar,Irinotecan generic,No,5997,6122,14,NA,no,92632,500,1,14,YES,NO,Accepted
+Gold,69,5.9,Female,69,Radiologist,Partial nephrectomy,Taxol,Paclitaxel,yes,5600,3574,7,NO,yes,66403,12.5,3,30,YES,NO,Rejected
+Gold,74,6.7,Male,91,Otolaryngologist,Reconstruction,Cytoxan,Cyclophosphamide,yes,5715,3245,6,NO,no,65570,140,1,5,YES,NO,Rejected
+Gold,9,3.4,Female(Child),60,Interventional cardiologist,Cardiomyoplasty,Rivaroxaban,Xarelto,No,2985,4032,6,YES,NA,68247,40,1,12,NO,YES,Accepted
+Basic,66,5.9,Male,58,Vascular surgeon,Radical cystectomy and lymph node dissection,Zykadia,Ceritinib,No,3945,2546,5,YES,no,53488,200,2,8,NO,NO,Rejected
+Platinum,75,6.2,Male,69,Non-invasive cardiologist,Minimally Invasive Heart Surgery,Moexipril,Univasc,yes,8053,4521,9,YES,NA,79525,90,1,10,NO,NO,Rejected
+Basic,34,5.9,Male,71,Electrophysiologist,Norwood,Chlorthalidone,Hygroton,yes,4335,2014,11,YES,yes,75987,12.5,4,14,NO,NO,Rejected
+Basic,26,5.5,Female,48,Oncologist,Neck dissection,Abraxane,Paclitaxel,No,3321,5261,11,NA,no,65591,30,3,14,NO,NO,Accepted
+Gold,84,6,Male,78,Urologists,Transurethral bladder tumor resection (TURBT),Ellence,Epirubicin,No,3486,4815,14,NA,no,59510,775,2,5,NO,YES,Accepted
+Gold,34,5.2,Female,67,Breast surgeon,Sentinel lymph node biopsy (SLNB),oncovin,VINCRISTINE,No,2264,7388,12,NA,no,79349,250,2,14,NO,YES,Accepted
+Gold,60,6.1,Male,39,Otolaryngologist,Reconstruction,Paraplatin,Carboplatin,yes,4533,4395,14,NO,no,84940,775,1,8,YES,NO,Rejected
+Gold,76,6.4,Male,72,Neuro-oncologists,stereotaxis,Cytoxan,Cyclophosphamide,No,6258,3931,0,NA,no,51802,875,4,12,NO,YES,Rejected
+Basic,55,5.4,Female,75,Dermatologist,Melanoma,Adriamycin,Doxorubicin,No,2620,7049,17,NA,no,78586,90,2,21,NO,NO,Accepted
+Platinum,68,6.7,Male,80,Pulmonologist,Laryngectomy,DaunoXome,Daunorubicin,No,2857,7283,9,NO,yes,92602,12.5,2,5,YES,YES,Accepted
+Platinum,74,6,Male,90,Pathologist,Tracheostomy,Camptosar,Irinotecan generic,yes,5693,4875,11,NO,yes,90464,90,3,20,NO,NO,Rejected
+Basic,55,6.2,Female,68,Cardiologist,Minimally Invasive Heart Surgery,Labetalol hydrochloride,"Normodyne, Trandate",No,5696,4698,11,NA,NA,96849,875,1,20,NO,NO,Accepted
+Basic,26,5.9,Male,66,Urologists,Transurethral bladder tumor resection (TURBT),Abraxane,Paclitaxel,No,5855,5899,3,NA,NA,74920,250,4,12,YES,NO,Accepted
+Basic,33,5.9,Male,63,Radiation oncologist,Mastectomy,Taxol,Paclitaxel,No,1702,5803,6,NA,yes,55087,10,3,7,YES,YES,Accepted
+Basic,38,6.2,Male,47,Dermatologist,Melanoma,Avastin,Bevacizumab,No,5842,5817,17,NA,no,68795,750,2,7,NO,NO,Accepted
+Basic,11,3.8,Female(Child),32,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Mexate,Methotrexate,No,4441,6016,14,YES,no,56093,300,2,28,YES,YES,Accepted
+Basic,37,6.1,Male,83,Radiation oncologist,Transurethral bladder tumor resection (TURBT),Abraxane,Paclitaxel,No,4672,4768,7,NA,no,93112,10,2,30,NO,NO,Accepted
+Basic,77,6,Female,62,Breast surgeon,Axillary lymph node dissection (ALND),Mexate,Methotrexate,No,3648,5289,11,NA,no,81895,6.25,3,12,NO,YES,Accepted
+Basic,12,3.5,Female(Child),35,Pulmonologist,Laryngectomy,Eloxatin,Oxaliplatin generic,yes,6521,3214,17,NA,yes,88035,500,1,5,YES,NO,Rejected
+Basic,32,6.1,Male,73,Cardiac surgeon,Aortic valve surgery,Candesartan,Atacand,yes,4119,2145,15,YES,yes,57882,500,3,14,YES,NO,Rejected
+Gold,31,5.9,Male,81,Plastic surgeon,Radiofrequency ablation (RFA) or cryoablation,Gemzar,Gemcitabine,No,5768,6983,3,NO,yes,68835,800,1,14,NO,NO,Accepted
+Basic,29,5.9,Male,67,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Odomzo,Sonidegib,No,4622,4836,16,YES,no,88604,500,2,14,NO,YES,Accepted
+Gold,30,5.9,Male,80,Interventional cardiologist,Truncus Repair,Captopril,Capoten,No,6155,5216,11,YES,NA,77364,200,2,42,YES,NO,Rejected
+Gold,47,6.2,Male,75,Medical oncologist,Segmentectomy,Cytoxan,Cyclophosphamide,No,7287,2541,7,YES,no,94171,50,2,8,NO,YES,Rejected
+Gold,29,5.8,Female,52,Urologists,Radical cystectomy and lymph node dissection,Mexate,Methotrexate,No,1565,7875,3,NA,NA,84180,850,2,21,NO,NO,Accepted
+Gold,89,6,Male,76,Radiologist,Radical nephrectomy,Adriamycin,Doxorubicin,yes,4235,8710,3,NO,yes,96211,700,4,8,NO,NO,Rejected
+Gold,77,6.2,Female,87,Breast surgeon,Sentinel lymph node biopsy (SLNB),Avastin,Bevacizumab,No,4261,2145,2,NA,no,80959,560,2,5,YES,YES,Rejected
+Basic,35,5.6,Female,56,Radiation oncologist,Transurethral bladder tumor resection (TURBT),Avastin,Bevacizumab,No,2009,6120,4,YES,no,51277,1000,3,42,YES,NO,Accepted
+Basic,30,5.9,Female,68,Surgical oncologist,Transoral robotic surgery and transoral laser microsurgery,Ellence,Epirubicin,No,2241,7589,4,NA,yes,78210,400,3,10,YES,YES,Accepted
+Basic,77,6.1,Male,64,Interventional cardiologist,Truncus Repair,Dabigatran,Pradaxa,No,5211,3542,9,YES,no,88642,6.25,4,10,NO,YES,Rejected
+Basic,65,5.9,Female,54,Pulmonologist,Laryngectomy,Gemzar,Gemcitabine,No,3297,6771,3,NA,yes,68096,250,4,20,YES,YES,Accepted
+Basic,73,6.3,Male,81,Dermatologist,Melanoma,Abraxane,Paclitaxel,No,5863,4826,14,NA,no,84009,1000,2,21,NO,YES,Rejected
+Basic,85,6.1,Male,85,Oncologist,Mandibulectomy,Gemzar,Gemcitabine,No,5373,7625,13,NA,yes,87704,10,4,7,NO,YES,Accepted
+Basic,72,6.7,Male,68,Non-invasive cardiologist,Fontan,Betaxolol,Kerlone,yes,5583,2457,4,YES,yes,69890,800,3,12,NO,NO,Rejected
+Basic,49,5.9,Male,68,Neurosurgeons,craniotomy,Mexate,Methotrexate,No,2228,8578,10,NA,no,56146,19,3,10,NO,NO,Accepted
+Basic,62,5.1,Male,75,Neurosurgeons,craniotomy,Taxol,Paclitaxel,No,6424,5232,16,NA,no,66412,750,4,14,YES,NO,Rejected
+Basic,39,6.2,Female,68,Neuro-oncologists,stereotaxis,Avastin,Bevacizumab,No,3800,7609,7,NA,no,54010,125,3,12,NO,NO,Accepted
+Platinum,39,6.3,Female,55,Medical oncologist,Segmentectomy,Opdivo,Nivolumab,No,4660,5076,4,YES,no,51919,850,1,28,NO,NO,Accepted
+Gold,88,5.9,Female,73,Pulmonologist,Laryngectomy,Docetaxel,,No,6322,7807,2,NO,yes,79882,250,1,5,NO,NO,Accepted
+Gold,74,6.3,Female,68,Otolaryngologist,Reconstruction,Taxol,Paclitaxel,yes,4494,2345,14,NO,no,78260,19,2,28,NO,NO,Rejected
+Gold,9,3.4,Male(Child),28,Gastroenterologist,Gastrostomy tube,Eloxatin,Oxaliplatin generic,No,5767,3922,8,YES,no,74045,150,1,14,NO,YES,Accepted
+Basic,79,6.3,Male,86,Otolaryngologist,Neck dissection,Opdivo,Nivolumab,yes,6256,8256,13,NO,yes,79702,150,1,12,NO,YES,Accepted
+Basic,34,5.9,Male,69,Radiation oncologist,Transurethral bladder tumor resection (TURBT),Ellence,Epirubicin,No,6488,2147,6,YES,no,52177,10,3,20,YES,NO,Rejected
+Basic,58,6,Female,73,Pathologist,Tracheostomy,Cytoxan,Cyclophosphamide,yes,2515,1254,17,NO,yes,74390,800,3,20,YES,YES,Rejected
+Basic,59,6,Male,76,Maxillofacial surgeon,Reconstruction,Zykadia,Ceritinib,No,3102,4133,10,NO,no,58416,875,2,8,NO,NO,Accepted
+Basic,48,6.4,Male,69,Pulmonologist,Colostomy,Zykadia,Ceritinib,No,5655,7519,8,NO,yes,80251,90,3,42,NO,NO,Accepted
+Basic,38,6.2,Female,62,Cardiac surgeon,Congenital heart surgery,Candesartan,Atacand,No,5389,7533,1,YES,NA,91865,10,1,14,NO,YES,Accepted
+Basic,47,5.9,Male,75,Cardiac surgeon,Aortic valve surgery,Sotalol,Betapace,No,6495,3977,16,NA,NA,92106,30,3,14,YES,YES,Accepted
+Basic,8,3.1,Male(Child),28,Interventional cardiologist,ASO,Apixaban,Eliquis,No,2528,6442,9,YES,yes,60810,750,2,21,NO,NO,Accepted
+Basic,42,5.5,Male,84,Surgical oncologist,A wedge resection,Cerubidine,Daunorubicin,No,1827,7588,4,NA,yes,71971,500,2,20,NO,YES,Accepted
+Gold,69,5.8,Female,86,Urologists,Radical cystectomy and lymph node dissection,Adriamycin,Doxorubicin,No,5729,2145,9,NA,NA,55247,200,1,42,NO,NO,Rejected
+Basic,59,5.4,Female,76,Cardiologist,ASD Repair,Diltiazem,"Cardizem, Tiazac",No,2581,7520,3,NA,no,75266,160,2,7,NO,NO,Accepted
+Platinum,37,6.8,Male,65,Surgical oncologist,A wedge resection,Adriamycin,Doxorubicin,yes,3573,2178,7,NA,yes,88978,200,1,42,YES,YES,Rejected
+Gold,59,6.1,Male,57,Maxillofacial surgeon,Reconstruction,Paraplatin,Carboplatin,No,4521,5735,4,NO,no,83516,400,3,28,NO,YES,Accepted
+Gold,54,5.8,Male,80,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Odomzo,Sonidegib,No,3192,5862,12,YES,yes,50104,500,1,14,NO,NO,Accepted
+Gold,31,6.3,Male,77,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Ellence,Epirubicin,No,4734,6836,10,YES,no,57953,250,4,7,YES,NO,Accepted
+Gold,47,6.2,Female,37,Surgical oncologist,Mandibulectomy,Cytoxan,Cyclophosphamide,No,4865,2457,4,NA,yes,58313,30,2,12,YES,NO,Rejected
+Gold,59,6.3,Male,87,Electrophysiologist,TOF Repair,Diltiazem,"Cardizem, Tiazac",yes,8074,3145,16,NO,NA,70060,150,4,20,NO,YES,Rejected
+Platinum,76,5.9,Male,62,Medical oncologist,Glossectomy,Abraxane,Paclitaxel,No,4098,6395,4,YES,no,91624,560,2,14,NO,NO,Accepted
+Platinum,34,6.2,Male,81,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Zykadia,Ceritinib,No,3142,1547,2,NA,yes,64791,6.25,1,10,NO,YES,Rejected
+Basic,57,6.2,Female,54,Breast surgeon,Axillary lymph node dissection (ALND),Adriamycin,Doxorubicin,No,3299,7396,3,NA,no,84577,20,2,20,NO,YES,Accepted
+Basic,39,5.9,Male,58,Pathologist,Tracheostomy,Docetaxel,,yes,6062,4578,13,NO,yes,93892,25,1,28,NO,NO,Accepted
+Basic,43,5.8,Male,75,Vascular surgeon,Sentinel lymph node biopsy (SLNB),oncovin,VINCRISTINE,No,4741,5574,3,YES,yes,70222,400,3,10,NO,NO,Accepted
+Basic,56,6,Female,60,Urologists,Urinary diversion,Zykadia,Ceritinib,No,5478,3247,15,NA,NA,69625,250,1,5,YES,NO,Rejected
+Basic,58,6.8,Female,71,Oncologist,Micrographic surgery,oncovin,VINCRISTINE,No,5622,1478,12,NA,yes,51880,125,1,20,NO,YES,Rejected
+Basic,29,6.1,Female,77,Otolaryngologist,Reconstruction,Mexate,Methotrexate,yes,3935,4565,12,NO,yes,69016,500,2,5,YES,NO,Accepted
+Basic,70,6.2,Male,86,Cardiac surgeon,Myectomy/ myotomy,Candesartan,Atacand,No,5061,8259,14,NA,NA,65468,1000,4,21,NO,YES,Accepted
+Gold,37,6,Male,76,Thoracic surgeon,Sentinel lymph node biopsy (SLNB),Thioplex,Thiotepa,yes,2859,5042,9,YES,yes,91292,30,3,10,YES,YES,Accepted
+Gold,43,6.1,Male,67,Surgical oncologist,A wedge resection,Thioplex,Thiotepa,No,5982,7614,13,NA,yes,72392,750,3,20,NO,NO,Accepted
+Gold,55,6.3,Female,59,Neuro-oncologists,stereotaxis,Avastin,Bevacizumab,No,2521,5479,3,NA,no,61231,500,1,20,NO,YES,Accepted
+Basic,45,6.3,Male,44,Medical oncologist,Glossectomy,Mexate,Methotrexate,No,5879,2548,1,YES,no,56480,6.25,2,10,NO,YES,Rejected
+Basic,11,4.2,Female(Child),33,Neurosurgeons,craniotomy,Adriamycin,Doxorubicin,No,2675,5037,9,NA,no,73649,600,3,10,NO,NO,Accepted
+Gold,80,6.4,Male,85,Oncologist,Lobectomy,Abraxane,Paclitaxel,No,3603,8657,3,NA,yes,94532,250,1,10,NO,NO,Accepted
+Gold,85,6.2,Male,41,Pathologist,Radical nephrectomy,Eloxatin,Oxaliplatin generic,yes,4461,2487,1,NO,yes,86315,25,4,10,YES,YES,Rejected
+Gold,30,6.7,Male,74,Plastic surgeon,Radiofrequency ablation (RFA) or cryoablation,Adriamycin,Doxorubicin,No,4107,8383,4,NO,yes,75652,400,3,5,NO,NO,Accepted
+Gold,30,5.9,Female,52,Neurosurgeons,craniotomy,Cerubidine,Daunorubicin,yes,5795,2487,12,NA,no,55644,250,2,5,NO,NO,Rejected
+Basic,53,6.4,Male,33,Radiologist,Partial nephrectomy,Camptosar,Irinotecan generic,No,2885,1245,3,NO,yes,53112,160,2,5,NO,NO,Rejected
+Basic,57,6.3,Male,66,Otolaryngologist,Reconstruction,Mexate,Methotrexate,yes,4472,2478,15,NO,no,95329,40,2,42,YES,YES,Rejected
+Basic,31,6.2,Male,56,Oncologist,Micrographic surgery,Avastin,Bevacizumab,No,5822,5489,3,NA,yes,86949,40,2,7,NO,NO,Accepted
+Basic,71,6.3,Male,80,Cardiac surgeon,Myectomy/ myotomy,Telmisartan,Micardis,No,4652,3248,10,NA,NA,99536,160,2,12,YES,NO,Rejected
+Basic,57,6.3,Female,81,Neurosurgeons,craniotomy,Docetaxel,,No,6117,8657,17,NA,no,72854,25,1,8,NO,NO,Accepted
+Basic,37,6.2,Male,62,Neurosurgeons,craniotomy,Cytoxan,Cyclophosphamide,No,5749,2457,1,NA,no,97904,250,2,12,NO,YES,Rejected
+Basic,37,6.6,Male,39,Otolaryngologist,Reconstruction,Panitumumab,Vectibix,yes,1920,2457,5,NO,no,60742,500,4,20,NO,YES,Rejected
+Gold,81,6.1,Female,88,Radiation oncologist,Transurethral bladder tumor resection (TURBT),Opdivo,Nivolumab,No,3590,8145,7,YES,no,88297,800,3,14,NO,NO,Accepted
+Gold,79,6.6,Male,89,Electrophysiologist,CAVC Repair,Nitroglycerin,Nitro Stat,yes,3393,1245,11,YES,yes,78350,40,2,7,NO,NO,Rejected
+Gold,86,6.2,Male,79,Maxillofacial surgeon,Reconstruction,DaunoXome,Daunorubicin,No,5715,4535,12,NO,no,69011,140,2,20,YES,YES,Rejected
+Gold,70,6.8,Male,69,Electrophysiologist,Minimally Invasive Heart Surgery,Heparin,various,yes,3304,1548,9,YES,yes,50955,600,1,28,NO,NO,Rejected
+Basic,25,5.9,Female,55,Dermatologist,Melanoma,Aldara,Imiquimod,No,1671,7377,14,NA,no,69863,600,3,10,NO,YES,Accepted
+Platinum,18,5.4,Female,48,Breast surgeon,Mastectomy,Doxil,doxorubicin,No,4789,4587,16,NA,no,99372,850,2,12,NO,YES,Accepted
+Basic,76,5.8,Male,82,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Taxol,Paclitaxel,No,3425,1457,3,YES,no,65503,125,4,30,NO,YES,Rejected
+Basic,29,5.7,Female,51,Urologists,Transurethral bladder tumor resection (TURBT),Gemzar,Gemcitabine,No,3165,6466,4,NA,no,84843,6.25,1,8,YES,NO,Accepted
+Gold,70,6.4,Male,79,Non-invasive cardiologist,TOF Repair,Atenolol,Tenormin,yes,5800,3969,11,YES,NA,61520,400,3,28,NO,NO,Rejected
+Gold,45,6.6,Male,64,Neurosurgeons,craniotomy,oncovin,VINCRISTINE,No,3928,8722,15,NA,no,84303,100,3,14,NO,NO,Accepted
+Gold,33,6.4,Male,65,Otolaryngologist,Reconstruction,Doxil,doxorubicin,No,2709,4249,11,NO,no,95244,25,2,28,YES,YES,Accepted
+Gold,54,6,Male,89,Non-invasive cardiologist,Transcatheter Aortic Valve Replacement (TAVR),Sacubitril/valsartan,Entresto,yes,5368,3547,12,YES,NA,85534,50,1,14,YES,NO,Rejected
+Basic,71,6.5,Male,80,Urologists,Transurethral bladder tumor resection (TURBT),Adriamycin,Doxorubicin,No,2652,6830,13,NA,NA,89544,50,4,5,YES,YES,Accepted
+Platinum,81,6.1,Female,70,Dermatologist,Melanoma,DaunoXome,Daunorubicin,No,5471,3547,9,NA,no,89289,100,2,8,YES,NO,Accepted
+Platinum,45,6.5,Male,61,Radiologist,Radical nephrectomy,Gemzar,Gemcitabine,No,5410,6081,0,NO,yes,65615,560,1,30,YES,NO,Accepted
+Basic,24,6.6,Male,63,Interventional cardiologist,VSD Repair,Dipyridamole,Persantine,No,5920,7659,16,YES,NA,72293,40,1,28,NO,YES,Accepted
+Basic,26,6.2,Female,89,Maxillofacial surgeon,Reconstruction,Mexate,Methotrexate,No,4645,3547,6,NO,no,73008,20,1,12,YES,NO,Rejected
+Basic,35,6.4,Female,72,Maxillofacial surgeon,Reconstruction,Aldara,Imiquimod,No,2998,4587,2,NO,no,87436,300,4,12,NO,YES,Accepted
+Basic,42,5.9,Male,63,Surgical oncologist,A wedge resection,Odomzo,Sonidegib,No,1598,478,12,NA,yes,88274,10,2,5,NO,NO,Rejected
+Basic,61,6,Female,67,Pathologist,Tracheostomy,Thioplex,Thiotepa,yes,4459,3963,14,NO,yes,55373,250,4,12,NO,NO,Rejected
+Basic,48,6.5,Male,63,Electrophysiologist,Fontan,Isosorbide mononitrate,Imdur,yes,2424,1245,4,YES,yes,83951,800,2,21,YES,NO,Rejected
+Basic,25,6.3,Male,77,Vascular surgeon,Radical cystectomy and lymph node dissection,Avastin,Bevacizumab,No,4636,7060,17,YES,no,96721,125,2,30,NO,NO,Accepted
+Basic,60,6,Male,87,Neurosurgeons,craniotomy,Avastin,Bevacizumab,yes,3772,2345,17,NA,no,93520,250,2,21,YES,YES,Rejected
+Basic,47,6.2,Male,63,Non-invasive cardiologist,ASO,Metoprolol,"Lopressor, Toprol XL",yes,3481,3100,7,NO,NA,85773,200,2,20,YES,NO,Rejected
+Gold,77,6.5,Male,86,Vascular surgeon,Radical cystectomy and lymph node dissection,Eloxatin,Oxaliplatin generic,No,4609,7220,8,YES,no,90523,775,3,20,YES,NO,Accepted
+Basic,36,5.9,Female,79,Cardiac surgeon,Heart transplant,Dipyridamole,Persantine,yes,4712,2487,16,YES,yes,95751,100,3,20,NO,NO,Rejected
+Gold,70,6,Female,71,Otolaryngologist,Reconstruction,Eloxatin,Oxaliplatin generic,yes,1969,1458,10,NO,no,61057,40,2,5,NO,YES,Rejected
+Gold,61,6.1,Female,87,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Ellence,Epirubicin,No,3911,5593,8,NA,yes,66679,250,2,12,YES,NO,Accepted
+Gold,50,6.2,Female,73,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Abraxane,Paclitaxel,No,2518,6497,11,YES,no,80401,12.5,1,20,YES,YES,Accepted
+Gold,13,6.7,Male(Child),28,Radiologist,Radical nephrectomy,oncovin,VINCRISTINE,No,5019,4410,2,NO,yes,68723,6.25,2,5,NO,NO,Rejected
+Gold,63,6.3,Male,59,Neuro-oncologists,stereotaxis,Aldara,Imiquimod,No,5317,6393,15,NA,no,77720,140,2,14,YES,NO,Accepted
+Basic,49,6.2,Male,53,Radiologist,Radical nephrectomy,Abraxane,Paclitaxel,yes,3091,1487,14,NO,yes,59723,25,3,20,NO,NO,Rejected
+Basic,54,6.1,Female,90,Thoracic surgeon,Sentinel lymph node biopsy (SLNB),Eloxatin,Oxaliplatin generic,yes,5225,4969,6,YES,yes,85671,200,2,10,YES,NO,Rejected
+Basic,48,6.3,Male,70,Radiation oncologist,Sentinel lymph node biopsy (SLNB),Cerubidine,Daunorubicin,No,6183,7376,12,NA,yes,68674,40,4,42,NO,NO,Accepted
+Basic,85,6.3,Male,84,Pulmonologist,Colostomy,Panitumumab,Vectibix,No,5384,4395,13,NO,yes,79914,30,1,10,YES,NO,Rejected
+Basic,37,6.3,Female,52,Maxillofacial surgeon,Reconstruction,Avastin,Bevacizumab,No,5899,7731,5,NO,no,52494,600,2,14,YES,YES,Accepted
+Basic,45,6.6,Male,64,Radiologist,Radical nephrectomy,oncovin,VINCRISTINE,No,4756,7566,9,NO,yes,70849,800,1,20,NO,YES,Accepted
+Basic,18,4.2,Male,41,Pathologist,Tracheostomy,Gemzar,Gemcitabine,yes,3511,1478,5,NO,yes,70635,250,1,42,YES,YES,Rejected
+Basic,34,6,Male,60,Urologists,Radical cystectomy and lymph node dissection,Avastin,Bevacizumab,No,2061,7722,5,NA,no,60846,50,3,12,YES,NO,Accepted
+Basic,50,6.1,Female,82,Maxillofacial surgeon,Reconstruction,Eloxatin,Oxaliplatin generic,yes,4586,3909,0,NO,no,78296,90,3,42,NO,NO,Rejected
+Basic,41,6.4,Female,57,Breast surgeon,Axillary lymph node dissection (ALND),Cerubidine,Daunorubicin,No,4193,6628,17,NA,no,51338,19,1,30,YES,NO,Accepted
+Platinum,54,6.6,Male,76,Pathologist,Tracheostomy,Abraxane,Paclitaxel,yes,3347,1897,9,NO,yes,76880,400,4,8,NO,NO,Rejected
+Gold,50,6.7,Male,88,Cardiologist,Norwood,Hydro-chlorothiazide,Hydrodiuril,No,6178,8431,15,YES,NA,73000,800,2,42,NO,NO,Accepted
+Gold,84,6,Male,92,Gastroenterologist,Gastrostomy tube,Cytoxan,Cyclophosphamide,No,5642,6372,17,YES,no,76283,400,3,10,NO,NO,Accepted
+Gold,22,6.5,Male,59,Surgical oncologist,Radical cystectomy and lymph node dissection,Zykadia,Ceritinib,No,1793,458,3,NA,yes,50275,875,2,14,NO,NO,Rejected
+Basic,74,6.5,Female,86,Urologists,Urinary diversion,Cytoxan,Cyclophosphamide,No,6039,7041,6,NA,NA,60573,600,4,7,NO,NO,Accepted
+Basic,27,5.8,Male,55,Otolaryngologist,Neck dissection,Avastin,Bevacizumab,yes,4943,3578,1,NO,yes,51993,800,1,28,NO,YES,Rejected
+Basic,50,6.1,Male,78,Cardiac surgeon,Stent placement,Metoprolol,"Lopressor, Toprol XL",No,1859,7021,16,NA,NA,80088,500,3,14,NO,NO,Accepted
+Basic,57,6.1,Male,71,Medical oncologist,Segmentectomy,Taxol,Paclitaxel,No,4026,8485,9,YES,no,54054,30,2,30,NO,NO,Accepted
+Basic,38,6.4,Male,69,Neuro-oncologists,stereotaxis,Ellence,Epirubicin,No,6350,5629,14,NA,yes,58676,10,4,42,YES,NO,Rejected
+Basic,42,6.2,Male,73,Oncologist,Lobectomy,Doxil,doxorubicin,No,4407,5741,8,NA,yes,58749,19,2,5,NO,NO,Accepted
+Basic,53,5.9,Male,81,Neurosurgeons,craniotomy,Cerubidine,Daunorubicin,No,4129,7977,3,NA,no,97145,10,1,14,NO,NO,Accepted
+Basic,54,6.4,Female,68,Oncologist,Micrographic surgery,Taxol,Paclitaxel,yes,4980,2145,0,NA,yes,61255,560,2,5,NO,NO,Rejected
+Basic,60,5.9,Female,87,Vascular surgeon,Sentinel lymph node biopsy (SLNB),Opdivo,,No,4776,6583,15,YES,yes,62780,560,3,10,NO,NO,Accepted
+Gold,59,6,Female,86,Oncologist,Lobectomy,Cytoxan,Cyclophosphamide,No,5200,4789,16,NA,yes,56948,850,1,12,NO,YES,Rejected
+Basic,65,6.2,Male,80,Plastic surgeon,Colostomy,Thioplex,Thiotepa,No,5467,4789,4,NO,yes,53781,300,3,14,NO,NO,Rejected
+Platinum,71,6.3,Male,73,Pathologist,Tracheostomy,Abraxane,Paclitaxel,yes,2852,1248,14,NO,yes,83367,800,1,10,YES,NO,Rejected
+Gold,52,6.6,Male,90,Surgical oncologist,Radical cystectomy and lymph node dissection,Taxol,Paclitaxel,No,4444,3548,11,NA,yes,83514,775,4,30,YES,NO,Rejected
+Gold,58,6.4,Female,68,Urologists,Transurethral bladder tumor resection (TURBT),Paraplatin,Carboplatin,No,3764,8941,5,NA,yes,56034,200,4,10,NO,NO,Accepted
+Gold,43,6.2,Male,67,Electrophysiologist,Surgical Aortic Valve Replacement (SAVR),Ezetimibe,Zetia,yes,2912,7015,8,NO,yes,72007,50,2,14,NO,YES,Rejected
+Gold,15,4.2,Female(Child),38,Dermatologist,Melanoma,Odomzo,Sonidegib,No,2175,4657,14,NA,no,81360,25,1,5,NO,NO,Accepted
+Gold,34,6.2,Male,68,Plastic surgeon,Radiofrequency ablation (RFA) or cryoablation,Abraxane,Paclitaxel,No,3952,6103,8,NO,yes,52353,125,3,20,YES,YES,Accepted
+Platinum,71,6.5,Male,80,Pathologist,Partial nephrectomy,Mexate,Methotrexate,yes,1534,4861,12,NO,yes,74264,40,2,12,NO,YES,Rejected
+Platinum,78,6.5,Male,76,Non-invasive cardiologist,Truncus Repair,Losartan,Cozaar,yes,4322,4152,3,YES,NA,66365,140,1,14,NO,NO,Rejected
+Basic,57,6,Female,87,Surgical oncologist,Radical cystectomy and lymph node dissection,Cytoxan,Cyclophosphamide,No,6109,7730,12,NA,yes,93181,90,1,28,NO,NO,Accepted
+Basic,66,6.2,Male,75,Radiologist,Partial nephrectomy,DaunoXome,Daunorubicin,No,2100,8962,10,NO,yes,81519,10,1,7,NO,NO,Accepted
+Basic,36,6.5,Male,67,Urologists,Radical cystectomy and lymph node dissection,Doxil,doxorubicin,No,5079,6333,14,NA,NA,84431,140,2,14,YES,YES,Accepted
+Basic,41,5.9,Male,79,Maxillofacial surgeon,Reconstruction,Docetaxel,,No,5023,7849,16,NO,no,73059,30,1,28,NO,NO,Accepted
+Basic,53,6.4,Male,87,Pathologist,Radical nephrectomy,Panitumumab,Vectibix,yes,5997,5995,16,NO,yes,67230,500,2,5,NO,NO,Rejected
+Basic,78,5.8,Female,61,Vascular surgeon,Radical cystectomy and lymph node dissection,Gemzar,Gemcitabine,No,3723,8177,7,YES,no,51087,19,1,28,NO,NO,Accepted
+Platinum,78,6.4,Male,60,Neurosurgeons,craniotomy,Rozlytrek,Entrectinib,No,6176,5381,11,NA,no,66333,750,1,7,NO,NO,Accepted
+Platinum,31,6.6,Male,73,Oncologist,Neck dissection,Panitumumab,Vectibix,No,6232,6581,16,NA,yes,90178,10,1,10,NO,YES,Accepted
+Platinum,26,5.7,Female,65,Pulmonologist,Colostomy,Avastin,Bevacizumab,No,5170,7953,11,NO,yes,91273,750,2,8,NO,NO,Accepted
+Platinum,61,6.8,Male,77,Electrophysiologist,VSD Repair,Aspirin,,yes,5516,5516,13,YES,yes,88643,200,2,20,NO,NO,Rejected
+Platinum,51,6.1,Male,64,Neurosurgeons,craniotomy,Eloxatin,Oxaliplatin generic,No,5193,8747,13,NA,no,55702,600,2,14,YES,NO,Accepted
+Gold,61,6.3,Male,72,Radiologist,Radical nephrectomy,Panitumumab,Vectibix,No,2536,8476,7,NO,yes,85872,750,2,20,NO,YES,Accepted
+Gold,14,4.5,Female(Child),31,Pulmonologist,Mandibulectomy,Panitumumab,Vectibix,No,4243,4137,8,NA,yes,86261,30,1,8,YES,NO,Rejected
+Gold,65,6.1,Male,83,Radiation oncologist,Laparoscopic and robotic surgery (minimally invasive surgery),Camptosar,Irinotecan generic,No,4264,4276,6,YES,no,54000,200,4,12,NO,NO,Accepted
+Platinum,57,6.2,Male,65,Maxillofacial surgeon,Reconstruction,Thioplex,Thiotepa,No,2210,7618,3,NO,no,92013,800,4,7,YES,NO,Accepted
+Platinum,11,3.8,Female(Child),24,Cardiac surgeon,Arrhythimia surgery,Simvastatin,Zocor,No,4217,4982,2,NA,NA,68913,800,1,28,NO,NO,Accepted
+Platinum,34,5.8,Male,58,Vascular surgeon,Radical cystectomy and lymph node dissection,Cytoxan,Cyclophosphamide,No,1824,1212,0,YES,yes,69863,250,2,12,NO,YES,Rejected
+Platinum,75,6.2,Male,81,Oncologist,Neck dissection,Eloxatin,Oxaliplatin generic,No,6326,7500,14,NA,yes,98465,40,4,12,YES,YES,Accepted
+Platinum,63,5.9,Male,78,Maxillofacial surgeon,Reconstruction,Camptosar,Irinotecan generic,No,3384,5303,5,NO,no,68515,250,1,21,NO,YES,Accepted
